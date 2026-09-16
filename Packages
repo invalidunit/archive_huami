@@ -1,24 +1,8 @@
 Package: com.huami.dyyy
-Version: 1.9
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 236
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.dyyy_1.9_iphoneos-arm64_184dfb2b3650b1b41f9010f10ba78e1ec22a3dd7e8076437be571b76216eefdf.deb
-Size: 26516
-MD5sum: 59d67debbb803fad728f43320b22923e
-SHA1: 20ea646198dae20358ad4dab92a8fc8ec6d92f55
-SHA256: 184dfb2b3650b1b41f9010f10ba78e1ec22a3dd7e8076437be571b76216eefdf
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 1.9
 Architecture: iphoneos-arm
+Version: 1.9
+Priority: optional
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 236
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -27,52 +11,17 @@ Size: 26362
 MD5sum: f7b63c0bebac7b9ccc1aca54765a3fa6
 SHA1: 9f2adcae9c5cb35e2b31601520a54dac0f956eb7
 SHA256: 6f1c8982b521e1f323ed88385e73d8235c01cddc0c92241011c9eff33de4fb5f
-Section: Tweaks
-Priority: optional
+SHA512: 185cf3a01d5dd869b147664e5e93a0e46aaeaa8aad881adf4e997035866421bb80dd341f098af46bd868e4dbce64ccc0f5de63a3ea5f53e51e0528bc9ca79dda
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
 Name: DYYY
+Author: huami
 
 Package: com.huami.dyyy
-Version: 1.9
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 236
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_1.9_iphoneos-arm64e_63a3762ad348957c9a26a2ca5a16fd6589c54fdd973e2e3e7bc1d9e97a3e550a.deb
-Size: 26492
-MD5sum: 5c00481ef8363f9916446af84619bf93
-SHA1: 973a63e4cb077a57266de103693a7c6601a82daa
-SHA256: 63a3762ad348957c9a26a2ca5a16fd6589c54fdd973e2e3e7bc1d9e97a3e550a
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 1.9-6
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 268
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.dyyy_1.9-6_iphoneos-arm64_364841e7dc781e2ab6fdba166195b6ff7dc949a08dc786ba85b1164de5fb4b07.deb
-Size: 29186
-MD5sum: 6eecf67371b55a3353d676b742d74308
-SHA1: b28d0020c5480753b026fb6867d12424efe84bfd
-SHA256: 364841e7dc781e2ab6fdba166195b6ff7dc949a08dc786ba85b1164de5fb4b07
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 1.9-6
 Architecture: iphoneos-arm
+Version: 1.9-6
+Priority: optional
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 268
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -81,52 +30,17 @@ Size: 29202
 MD5sum: 4760189dc773b7d01945ee1d29ac5577
 SHA1: 2d9173f6e3428ed484d79c5a92015c5b3f7a4078
 SHA256: 04a7c81b361d57e7fabf936db86d2407135a438f0f97a57c5bd7d6135864f0fb
-Section: Tweaks
-Priority: optional
+SHA512: e2d061327029b8fc61054e873ccaf7ddd8afba606d2d8e1548742b5740245795af39d5344806d8ba3613c4f11c7c322b4fa384dba20cc5b85cbdae35644d1661
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
 Name: DYYY
+Author: huami
 
 Package: com.huami.dyyy
-Version: 1.9-6
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 268
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_1.9-6_iphoneos-arm64e_8b72b6eddce6d44c58645fa089761343a5f0e3cbd3a122a50337335cd0ca31fe.deb
-Size: 29292
-MD5sum: eb5bc82f08baa3ef3ba7e40916272c39
-SHA1: e5bca0b63fc7a1958d220af621fa52c7939a1280
-SHA256: 8b72b6eddce6d44c58645fa089761343a5f0e3cbd3a122a50337335cd0ca31fe
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 1.9-7
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 272
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.dyyy_1.9-7_iphoneos-arm64_b6d9f28c71ef710e5c55b98cdf3fbd730b4016177f53efdc381a082374619e3c.deb
-Size: 33180
-MD5sum: b1b4e273118a07db34abfd61ffe6789c
-SHA1: 57d749ad0b2a0238f90048a0af127a9ecf6ca527
-SHA256: b6d9f28c71ef710e5c55b98cdf3fbd730b4016177f53efdc381a082374619e3c
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 1.9-7
 Architecture: iphoneos-arm
+Version: 1.9-7
+Priority: optional
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 272
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -135,52 +49,17 @@ Size: 33192
 MD5sum: e4c6bde770cf0a351f9d4a7c740c90fe
 SHA1: bf5668a4550c5fcba67495331eb81e205598b1c8
 SHA256: ae5432e1a768f84ad3e516464eb0954dfddf527debcd04d9e88a4114dac6dfc9
-Section: Tweaks
-Priority: optional
+SHA512: 84a1b5c4e3dfc23436d5da1344acc94b998e63c3a83725d6a0997bd1fa0fc767703f61ed60e18d061ef192e884c52f14d1e50a98f1819d329985fa77225cf87b
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
 Name: DYYY
+Author: huami
 
 Package: com.huami.dyyy
-Version: 1.9-7
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 272
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_1.9-7_iphoneos-arm64e_3e52a1d8ab8ccb4b6ed5f760fd392ad7a520f380f4958658565ab6f351aaa24a.deb
-Size: 33110
-MD5sum: 2e2a24525046d1ccb8517b8b234e7bf8
-SHA1: 37912feff5251bc4c7888e407a46c2245b1c1146
-SHA256: 3e52a1d8ab8ccb4b6ed5f760fd392ad7a520f380f4958658565ab6f351aaa24a
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 1.9-8
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 272
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.dyyy_1.9-8_iphoneos-arm64_c07b95788244f5661eb7a271487a6ef50bb46696429833d7e307fd212f8ddb2e.deb
-Size: 34396
-MD5sum: 3e9e92a4b7dac002ad6963344ada3896
-SHA1: 8e316a55d39c9d82f239010fb228ffc37d56c2dd
-SHA256: c07b95788244f5661eb7a271487a6ef50bb46696429833d7e307fd212f8ddb2e
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 1.9-8
 Architecture: iphoneos-arm
+Version: 1.9-8
+Priority: optional
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 272
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -189,52 +68,17 @@ Size: 34288
 MD5sum: 1d8c64aeacd75cd4dab191bb3197aed0
 SHA1: b71a97947c1c5932d3ec470983b1ccd426e080bf
 SHA256: 8e474d92459d91351c351c05baecde697c0282ba2c2cf2aebe1495be716d796b
-Section: Tweaks
-Priority: optional
+SHA512: e2dee44a7294b3285d86ac330ce143178a3fe608d6003742e71e8fe9eff64cc1d18cb1521d9bd5bb29ba83215e99c03c59903c2388f62903211d8b12e8ab9f26
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
 Name: DYYY
+Author: huami
 
 Package: com.huami.dyyy
-Version: 1.9-8
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 272
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_1.9-8_iphoneos-arm64e_515d0ae1afcaa6539329328742157ae20764bde243f659d5fe8b97f0b214f20d.deb
-Size: 34254
-MD5sum: 1dd47a8266b77bc7e6aa1ce85cb5760d
-SHA1: b4413eb435564b3e5c10998733740bd58eb698be
-SHA256: 515d0ae1afcaa6539329328742157ae20764bde243f659d5fe8b97f0b214f20d
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 1.9-9
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 272
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.dyyy_1.9-9_iphoneos-arm64_f1557716cc8dd06d638371070d86a6c479c17900ae4f04aeb4128a8ac57cc64f.deb
-Size: 35224
-MD5sum: 385762227fe6a3842b6caa488dc60a72
-SHA1: 1d1ddff5d584314b21afaa025cb42b2d660db76e
-SHA256: f1557716cc8dd06d638371070d86a6c479c17900ae4f04aeb4128a8ac57cc64f
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 1.9-9
 Architecture: iphoneos-arm
+Version: 1.9-9
+Priority: optional
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 272
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -243,52 +87,17 @@ Size: 35040
 MD5sum: 07e096ea87d088859da210b74dc17ce1
 SHA1: 2d90f8577ecc7ecc5d9ef1a40b0182e75ddc2398
 SHA256: b860fbb4662de23b5cad5f0a08b1694d2ce09426fd175a950750b371ae10a3c4
-Section: Tweaks
-Priority: optional
+SHA512: 94104abb2945d83683a64e4699d4089a57e5ad3757db15311609a03987c90ac0a2ebc24ecbf08ce4f3713ee73f8bcf08a69c042a00d20894f95a3ddad9691015
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
 Name: DYYY
+Author: huami
 
 Package: com.huami.dyyy
-Version: 1.9-9
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 272
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_1.9-9_iphoneos-arm64e_77c88e3296e5c9f23e48f229d70ab392258d476a6cec5f0a5036d5e12535a82e.deb
-Size: 35240
-MD5sum: 5560070ba7eb563c30689cf8eea769f6
-SHA1: 6273ecfa898c18c810dd1045d7cf1471a8f0798d
-SHA256: 77c88e3296e5c9f23e48f229d70ab392258d476a6cec5f0a5036d5e12535a82e
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 1.9-9+1
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 272
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.dyyy_1.9-9+1_iphoneos-arm64_4f372a60a2261373a73af788fffe0bd372703ae3185ebd025c608144f7a137b8.deb
-Size: 34612
-MD5sum: 0a4aadaa2c543b04a99871624d04c045
-SHA1: e5869f9692c73ce44a5856fa8d0d0198150ea610
-SHA256: 4f372a60a2261373a73af788fffe0bd372703ae3185ebd025c608144f7a137b8
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 1.9-9+1
 Architecture: iphoneos-arm
+Version: 1.9-9+1
+Priority: optional
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 272
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -297,52 +106,17 @@ Size: 34492
 MD5sum: 5802f7a6379a468479e5c7a6c1251a85
 SHA1: d508acdc748327ea0c14a69871c1da26c12342b5
 SHA256: 3d03d0bed4e7c3d8f4500c67ae2bc90bc5e04ede77969a7924697bfb5c8a6925
-Section: Tweaks
-Priority: optional
+SHA512: e3468290b76977358d0b805dac3dfa67cd46c515faf24c5a77cb11939d4d7b5793bafa99306117d4b75af7b51ab5b6d13baa10f9f4e4b86e81750e49ba1c4773
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
 Name: DYYY
+Author: huami
 
 Package: com.huami.dyyy
-Version: 1.9-9+1
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 272
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_1.9-9+1_iphoneos-arm64e_0cf665cb5df8664ffaa034947cd3e609771a487e24098ef0ee9135606bdd8a58.deb
-Size: 34448
-MD5sum: 36a06906a6665a93f66c8297ca042d95
-SHA1: 2705df54bed4340f852146d722746fc06dde7fb4
-SHA256: 0cf665cb5df8664ffaa034947cd3e609771a487e24098ef0ee9135606bdd8a58
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-1
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 272
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-1_iphoneos-arm64_6101cc4931979fd5268348cee185b543a1909423f3988965a34a0c168744c5d0.deb
-Size: 35182
-MD5sum: 4c2460c96e691b03d3bd670fd7ac7703
-SHA1: af511232c1e20588132a75f60a3c99d7c71e5f07
-SHA256: 6101cc4931979fd5268348cee185b543a1909423f3988965a34a0c168744c5d0
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-1
 Architecture: iphoneos-arm
+Version: 2.0-1
+Priority: optional
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 272
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -351,88 +125,17 @@ Size: 34886
 MD5sum: 5bd82c25e3e60dd89cfd0992e4c6c4b7
 SHA1: 05142b5c136ff6cba67a8902678a25b185c6f987
 SHA256: e0ad62a2c6a30a31266b55385a4bed79590f69570469846a35904092127312fa
-Section: Tweaks
-Priority: optional
+SHA512: 9d094bdb0874a3d5391be46bb5b3b3ac3aae55259b3081c058c4520fee70c0da9cbe9df1436660edafef533a388af6733e469771f6c84f68568d0ece4d5c1f92
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
 Name: DYYY
+Author: huami
 
 Package: com.huami.dyyy
-Version: 2.0-1
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 272
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-1_iphoneos-arm64e_68289aa98efa8a75778e1631d12eb2527e16adfda88f16627fe3ae26d9bbe774.deb
-Size: 35052
-MD5sum: e9917f98f485da25419337400ffd32c6
-SHA1: 9a04e570f9be24f4b79648284175bd2c44cce1f5
-SHA256: 68289aa98efa8a75778e1631d12eb2527e16adfda88f16627fe3ae26d9bbe774
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-2
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 272
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-2_iphoneos-arm64_db260ef09b6fedb13167407035643b4b2d1821ce7239bd839112f79aa5515ff4.deb
-Size: 37008
-MD5sum: 8e5c72c21a4063bf37fcc17b8702db54
-SHA1: e7f1465c209621a6513fd0e1582dea7ed8e5c550
-SHA256: db260ef09b6fedb13167407035643b4b2d1821ce7239bd839112f79aa5515ff4
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-2
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 272
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-2_iphoneos-arm64_7a0f05664a184051050f739ddbc60e386f62f296befd0437e5df9befe7600d1d.deb
-Size: 37028
-MD5sum: 546d2ded62ab55af35c9f325770b9a9e
-SHA1: 605b80ecb4b1f313ee9e5f35729a31a06919aa70
-SHA256: 7a0f05664a184051050f739ddbc60e386f62f296befd0437e5df9befe7600d1d
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-2
 Architecture: iphoneos-arm
-Maintainer: huami
-Installed-Size: 272
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm/com.huami.dyyy_2.0-2_iphoneos-arm_e8dbb92de47f8d0efe78debfa6d611ffe61e217b32bcfe90bf0e6809242e2e1d.deb
-Size: 36960
-MD5sum: 444e98339e6d3619b6a0a4cc24002811
-SHA1: 6c5839c0d5983639760abdd042a2e46fe37fa953
-SHA256: e8dbb92de47f8d0efe78debfa6d611ffe61e217b32bcfe90bf0e6809242e2e1d
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
 Version: 2.0-2
-Architecture: iphoneos-arm
+Priority: optional
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 272
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -441,88 +144,36 @@ Size: 36854
 MD5sum: 047af879ebd74b0fa432b01cd47a88fe
 SHA1: 227e47a720c652b626c3ff4799405689eeccbff2
 SHA256: cc8d90e46c476e816849c62e21031386494d4d219780f77a601227a2617d81cc
-Section: Tweaks
-Priority: optional
+SHA512: 2af34fb4d1c8de23afc930fd394150c560b47515d7d674a8bc00aa8dff88b4ede9d4de9d2d7b8ce03b72af105959c81bba3a19fc9664449983dfc8f037f9c9cb
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
 Name: DYYY
+Author: huami
 
 Package: com.huami.dyyy
-Version: 2.0-2
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 272
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-2_iphoneos-arm64e_f2bde4c4aa6e9f4b84b9f8b73755b9b1d2b151aea53ccb67c18d620cb94ddab5.deb
-Size: 36912
-MD5sum: cbe7fa7e5332bab49640857992a96a40
-SHA1: 2b83ca6f19f249e19e88cbafe406f79ef979a885
-SHA256: f2bde4c4aa6e9f4b84b9f8b73755b9b1d2b151aea53ccb67c18d620cb94ddab5
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-2
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 272
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-2_iphoneos-arm64e_90d993349e862c9ce1f32046789d644c1fd76fbfec0d612754dfbc99ee248136.deb
-Size: 36858
-MD5sum: ad87341f835ee6d9f43d8a7ddf9025cc
-SHA1: 97cabbdba9929abdf0785bab64ddd534e7c971a4
-SHA256: 90d993349e862c9ce1f32046789d644c1fd76fbfec0d612754dfbc99ee248136
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-3
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 400
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-3_iphoneos-arm64_e52b149b03d0492f0736e74465bede0a96e2dd6692d41ea8c5b5bca8dc26288c.deb
-Size: 45560
-MD5sum: 4bde4ea7a7ec4a94e6f411f3120ddc63
-SHA1: 469b9256424e0a2f289bcd4e5ebd53e31b30f69b
-SHA256: e52b149b03d0492f0736e74465bede0a96e2dd6692d41ea8c5b5bca8dc26288c
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-3
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 400
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-3_iphoneos-arm64_24a0370be51809998dc42e735e4e58f2239b7021f170c140b8262aa6cae49041.deb
-Size: 44890
-MD5sum: 6f17c4cc03d14530d53610908a78d52a
-SHA1: cbf7ad5c436b3a16509c62f74a327318db263b08
-SHA256: 24a0370be51809998dc42e735e4e58f2239b7021f170c140b8262aa6cae49041
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-3
 Architecture: iphoneos-arm
+Version: 2.0-2
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 272
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.huami.dyyy_2.0-2_iphoneos-arm_e8dbb92de47f8d0efe78debfa6d611ffe61e217b32bcfe90bf0e6809242e2e1d.deb
+Size: 36960
+MD5sum: 444e98339e6d3619b6a0a4cc24002811
+SHA1: 6c5839c0d5983639760abdd042a2e46fe37fa953
+SHA256: e8dbb92de47f8d0efe78debfa6d611ffe61e217b32bcfe90bf0e6809242e2e1d
+SHA512: 1b77d4296c7ed386438a0a8a717e0611eed1c4343f30993fecfa3eb34d866ffe58b24e5cffeefebc748b4daa60a95638f1cfd977c453bbb8cb068757a3bfb7ef
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm
+Version: 2.0-3
+Priority: optional
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 400
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -531,16 +182,17 @@ Size: 45750
 MD5sum: d76fcd1fbee66b6719fd07ef81a55299
 SHA1: 277f30203162a388fd06c9485aa0dae4d829d2aa
 SHA256: b3d51e69a5e52b7287c70a66e2e3e7130c6ecdd5d7ba51beb7cabd5ca1e494aa
-Section: Tweaks
-Priority: optional
+SHA512: bcb5831c7ad9412a270fe3d5bd8d4c413b6781897dc614e9941c92eedbaf29444fb5680b13773957b7c2d2e5d8115b72cec6a83088dc5d1e67f8a29f809a4393
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
 Name: DYYY
+Author: huami
 
 Package: com.huami.dyyy
-Version: 2.0-3
 Architecture: iphoneos-arm
+Version: 2.0-3
+Priority: optional
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 400
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -549,70 +201,17 @@ Size: 46270
 MD5sum: 495d514cae14fe5f06c0b3ab7b77538b
 SHA1: 2809ad04533056de8e1af7d51bedccc41bddcdbd
 SHA256: f7782198471d1c287ac785957c5956ed914638d5d9741fcafd40913c64da1beb
-Section: Tweaks
-Priority: optional
+SHA512: 2366ade66de7ecaa497900502dbfb23b2380c24f41b501b6f1f290bc3d92ca457c8865dec09fd439ff63e41db40a4db1d6dafef58f1abade105b7b35c5544bd7
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
 Name: DYYY
+Author: huami
 
 Package: com.huami.dyyy
-Version: 2.0-3
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 400
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-3_iphoneos-arm64e_f6885f7f5bd4f162af1bdc65e65f76f9f7d540e25d71b17815b08504c87a3f43.deb
-Size: 46032
-MD5sum: cf0c1567bb6fea8eb09efe4afac68896
-SHA1: db7c6f9084937fad5f7a862868fd73dfb7784ae4
-SHA256: f6885f7f5bd4f162af1bdc65e65f76f9f7d540e25d71b17815b08504c87a3f43
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-3
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 400
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-3_iphoneos-arm64e_e73fd60754c05598784777a8601fc073ea30b24e956e09d078ae2f92cec37866.deb
-Size: 45056
-MD5sum: 7fc12187eec249906187ade2cdd895e1
-SHA1: e8ce2ef263becd422c156fd7b75d7547cddb0e6d
-SHA256: e73fd60754c05598784777a8601fc073ea30b24e956e09d078ae2f92cec37866
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-4
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 400
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-4_iphoneos-arm64_8d09bb20cece464ff2ff0a3aff3eeed93e9c65f7484b0c2c566e5510355b4ad5.deb
-Size: 46516
-MD5sum: 6e0bdfddafadfd1f5dd8ddde09ed4c28
-SHA1: f7d865939bc7054dd6c086292611579ff9d3326e
-SHA256: 8d09bb20cece464ff2ff0a3aff3eeed93e9c65f7484b0c2c566e5510355b4ad5
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-4
 Architecture: iphoneos-arm
+Version: 2.0-4
+Priority: optional
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 400
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -621,52 +220,17 @@ Size: 46646
 MD5sum: fa699736c9586b31b16ad16a88688aae
 SHA1: 8d19761cb079b670a0936e7bda6774207975003b
 SHA256: 21ca36cfd8f238e6f3832da54054dee07e8d2227b7664dd0a9a6b40a71afca96
-Section: Tweaks
-Priority: optional
+SHA512: df7f8f30e335c182cfd093a63306708fe9017e2ae3b4f18c80ef03aced424b7ccb6b5ccfa61e591b6c86d09539137a0fada548e0280cca25654ecc3c844725a6
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
 Name: DYYY
+Author: huami
 
 Package: com.huami.dyyy
-Version: 2.0-4
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 400
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-4_iphoneos-arm64e_5a0302e0d5154fdb957073361e489593dc15afcc50fe5ac67a6cec4755d51070.deb
-Size: 46254
-MD5sum: 6d5e0f3a5a6c34af01c6bac360085ff4
-SHA1: a5614b49b5b407a0585759986d83e4af1148601f
-SHA256: 5a0302e0d5154fdb957073361e489593dc15afcc50fe5ac67a6cec4755d51070
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-5
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 400
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-5_iphoneos-arm64_b139f7c9e865b5bc6fc7d45e37010e69a13c2093f8dd66106f0cd764ee861750.deb
-Size: 48570
-MD5sum: eeb95b2d4d07cedb3ac94e9fd735a20f
-SHA1: 5ca379f361327c1b962bde918d14273c63f28c0a
-SHA256: b139f7c9e865b5bc6fc7d45e37010e69a13c2093f8dd66106f0cd764ee861750
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-5
 Architecture: iphoneos-arm
+Version: 2.0-5
+Priority: optional
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 400
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -675,52 +239,17 @@ Size: 48236
 MD5sum: b89ebdecd0468cb6c5dfefe4e193f79a
 SHA1: 2ae47ba5b3ba527500dedd06c8ac3ba0925f6e57
 SHA256: 017344806586d278a8e5f3433fa620f9e4ef0bf89b920abea6a4be2d61458d85
-Section: Tweaks
-Priority: optional
+SHA512: 27d499e896ffd3bfba0896ec6684bc4b63ae032f2c75765bcc1f3ddba47341d4ad22efdc49d4124851c7163654d1f3c8b1c4bfd0e1f2bfa13e28e6e0260779a6
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
 Name: DYYY
+Author: huami
 
 Package: com.huami.dyyy
-Version: 2.0-5
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 400
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-5_iphoneos-arm64e_6afee348d28998fbdd3116c015ec6ab809489a913037df483a8e5203930b6197.deb
-Size: 48098
-MD5sum: 3d3ae92451ce178c2352c09ddda42860
-SHA1: 42c16906063c399bfdb16aa5b7eaee6ed25d276d
-SHA256: 6afee348d28998fbdd3116c015ec6ab809489a913037df483a8e5203930b6197
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-6
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 400
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-6_iphoneos-arm64_f7ea05eaa33a0774490b32216fcd65e18e886a6309826780c014af2ac2459a7b.deb
-Size: 49098
-MD5sum: 1f98daea98fbb709c38e3d66be832506
-SHA1: 83c697be5fdd48426b3103362c082e4db75422e3
-SHA256: f7ea05eaa33a0774490b32216fcd65e18e886a6309826780c014af2ac2459a7b
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-6
 Architecture: iphoneos-arm
+Version: 2.0-6
+Priority: optional
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 400
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -729,52 +258,17 @@ Size: 48732
 MD5sum: 959f20c414ca22059acdcbd4c128a3f6
 SHA1: 03439df61f1b3dde211aa3f29d608d10a74a3a01
 SHA256: d20e81621654d75a751921b5b187fa8b06c26153a62123591e0719e00f620509
-Section: Tweaks
-Priority: optional
+SHA512: 1392aef56eddf5e75c02fae311cb1fe4439cc9510cf401edbbb4f9222f02ea9b0f09331b4a610206b8fa965c3c07ebcbddda380a1b51e6653a74a061cb4b993c
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
 Name: DYYY
+Author: huami
 
 Package: com.huami.dyyy
-Version: 2.0-6
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 400
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-6_iphoneos-arm64e_0da8ac78a0da9d37b2c812a514c8f722c9c918ce62df63326d09795f8c1fee81.deb
-Size: 50056
-MD5sum: 25b88133f8134f3398efaaecea54bfed
-SHA1: 9b26979a754225f853ef061954585c803394d9f9
-SHA256: 0da8ac78a0da9d37b2c812a514c8f722c9c918ce62df63326d09795f8c1fee81
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-7
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 432
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-7_iphoneos-arm64_4441885de267cd0ab3b7ef30998cd79677721ce9cefecb775da9b4c481601e0b.deb
-Size: 53672
-MD5sum: 122bc6d2da4fe8d16d853f30e257f064
-SHA1: 8a77a833ab0527d86fa99159a12a069585e56b23
-SHA256: 4441885de267cd0ab3b7ef30998cd79677721ce9cefecb775da9b4c481601e0b
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-7
 Architecture: iphoneos-arm
+Version: 2.0-7
+Priority: optional
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 432
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -783,142 +277,17 @@ Size: 53552
 MD5sum: f21dc452c91b25f4ae8d0e93a5114ffa
 SHA1: b9036cc207dd53d0d8a0361ff4a08b0c5f9d98c9
 SHA256: 4eec43200808f4edfe24521ffc753e347bfa282027a08dea8e6141ad20519f7b
-Section: Tweaks
-Priority: optional
+SHA512: f41486ad603ba77cfa0a862e2e3019910064f588ecf84ff56dd4b0fc0afe92a2feac1f3647076c002d0ed00698be3f2026b6da4eb982f26a39676028d85860ea
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
 Name: DYYY
+Author: huami
 
 Package: com.huami.dyyy
-Version: 2.0-7
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 432
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-7_iphoneos-arm64e_cb8dff3a7f258120d62b334043af60a8b159350a0f6d0c04e1e3bf2681eab119.deb
-Size: 53746
-MD5sum: 5a980f94b56c76929ed31f66461aedbb
-SHA1: cd24b29e2199d6ee00966dccd94fc954a1258cc9
-SHA256: cb8dff3a7f258120d62b334043af60a8b159350a0f6d0c04e1e3bf2681eab119
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-8
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 432
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-8_iphoneos-arm64_6d06d1da3cc074dc1df861219ee0aa8f64e582acf33866353a2ff7f693d153b2.deb
-Size: 54020
-MD5sum: 7d3bd4aaec08a6a0f9ed209558a5e5dc
-SHA1: 1bd1bfd13487a7f33978d9afdf67b2cd7f71d957
-SHA256: 6d06d1da3cc074dc1df861219ee0aa8f64e582acf33866353a2ff7f693d153b2
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-8
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 432
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-8_iphoneos-arm64_23c30f322990350d844577c2cdf715d5564f42c84e2deb3672e4a1b15b8d39d4.deb
-Size: 54024
-MD5sum: 7a7bf8a1a579fe32c86ba2bf1467d4ba
-SHA1: 827d86cf07bd9f96f9f166d031bd73f2cfb07606
-SHA256: 23c30f322990350d844577c2cdf715d5564f42c84e2deb3672e4a1b15b8d39d4
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-8
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 432
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-8_iphoneos-arm64_781ab650028114aef8188abd8f33578eedb86ec7db72157f85516196cd986321.deb
-Size: 54030
-MD5sum: 7efc0cc49a65f12d018d4cdda36c9f49
-SHA1: 700c4d90c3eac4323c2d7ee80988dc8b59204b5d
-SHA256: 781ab650028114aef8188abd8f33578eedb86ec7db72157f85516196cd986321
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-8
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 432
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-8_iphoneos-arm64_87f70699d20bc0eb561928dfdb701e246d1895d4c3f974d352de7e9111150acc.deb
-Size: 53776
-MD5sum: c95c2eb88f8a676361e9577481fe733a
-SHA1: bc7a88779648d8694d515bc48f7a6896d990b78a
-SHA256: 87f70699d20bc0eb561928dfdb701e246d1895d4c3f974d352de7e9111150acc
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-8
 Architecture: iphoneos-arm
-Maintainer: huami
-Installed-Size: 432
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm/com.huami.dyyy_2.0-8_iphoneos-arm_d1520a72e6ac44a03f3992270466c91e59589c2135b5ffae2d23758d7b3980ce.deb
-Size: 54030
-MD5sum: 800e79ddfbb1a1ceb50a77192aed9da2
-SHA1: 580df3e97cff67bcced5d02689f4487bdeaef0e2
-SHA256: d1520a72e6ac44a03f3992270466c91e59589c2135b5ffae2d23758d7b3980ce
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
 Version: 2.0-8
-Architecture: iphoneos-arm
-Maintainer: huami
-Installed-Size: 432
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm/com.huami.dyyy_2.0-8_iphoneos-arm_d8169900526c89ad11d53f4987e5030cd101ba9719822191615ed8aef07b08aa.deb
-Size: 53904
-MD5sum: 054a2554d705b5bfd2ec25e833f9c681
-SHA1: 6aad929e02a5de40c4528c1560b461afec5fcfb3
-SHA256: d8169900526c89ad11d53f4987e5030cd101ba9719822191615ed8aef07b08aa
-Section: Tweaks
 Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-8
-Architecture: iphoneos-arm
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 432
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -927,16 +296,36 @@ Size: 53524
 MD5sum: 80f5675f5919f877e6c6fac7cedf78ad
 SHA1: 5b177b660c4dd805854dd157a4f593178059746f
 SHA256: 0d0f74573f7c096a0361d78fc8c665533c6001d4f6f98e2ed293e474436479c3
-Section: Tweaks
-Priority: optional
+SHA512: 5629636c33cb55d6794ba7d4c0f6fa4333bc854fc6feb502766d99e24dc51d369fd40e4dddde5b5ddf25926379b6f4becd0dd27a9a899f892703fea232759288
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
 Name: DYYY
+Author: huami
 
 Package: com.huami.dyyy
-Version: 2.0-8
 Architecture: iphoneos-arm
+Version: 2.0-8
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 432
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.huami.dyyy_2.0-8_iphoneos-arm_d1520a72e6ac44a03f3992270466c91e59589c2135b5ffae2d23758d7b3980ce.deb
+Size: 54030
+MD5sum: 800e79ddfbb1a1ceb50a77192aed9da2
+SHA1: 580df3e97cff67bcced5d02689f4487bdeaef0e2
+SHA256: d1520a72e6ac44a03f3992270466c91e59589c2135b5ffae2d23758d7b3980ce
+SHA512: 1360592011698374b7031ba4ba7aed57e4cb319911785b0ccf0e29b90e000bca1d1b9b845f2b3e2e771270f09a82ae4ba7b950be949249db98e8440ae17a7000
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm
+Version: 2.0-8
+Priority: optional
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 432
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -945,160 +334,36 @@ Size: 53572
 MD5sum: 2c5fa62627c5f897bf1651d21fe67625
 SHA1: 0cec2179aaad88ce1c3c43b45565455a0181a067
 SHA256: d7bc3d70b8302d114f4b99bfb425dfe064005c4532bd6a29f9938a2e8f5797d6
-Section: Tweaks
-Priority: optional
+SHA512: 908083a2026e90e3157f570287ee207b52393f7a933487b0a3d919802fb55726e009dbb5f32f6f8d244bb31854b253a2aaaaa0e77bcde38675dc2631f8c07cd6
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
 Name: DYYY
+Author: huami
 
 Package: com.huami.dyyy
-Version: 2.0-8
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 432
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-8_iphoneos-arm64e_b2bbc718a93082e03b073f205e03b6beb1e041f1f8dcbfab114eb3725fed1e9e.deb
-Size: 53952
-MD5sum: 68a0eccbf768308e0b49bee043b2cdfa
-SHA1: 35bbfc66044130d64b0c5bfcaf65419531aeb247
-SHA256: b2bbc718a93082e03b073f205e03b6beb1e041f1f8dcbfab114eb3725fed1e9e
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-8
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 432
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-8_iphoneos-arm64e_c874804b6b00a2f7d4e4e484174f96adb558add3ce7c556dcdfc171a479af60f.deb
-Size: 53758
-MD5sum: 720a199c8ddb677458e8b2b545017710
-SHA1: 8da61ef845efce5aa62c80b13b820c29bb16f26f
-SHA256: c874804b6b00a2f7d4e4e484174f96adb558add3ce7c556dcdfc171a479af60f
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-8
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 432
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-8_iphoneos-arm64e_6ecda9b4dbcf4a30a5df100826dd500a61f3aafe19b15052cda1461c29bacf7f.deb
-Size: 53288
-MD5sum: b0a1bca8273a8682a3a0db0daa28916e
-SHA1: 039e4d759700c357b3df6ea2f679ce3cf7206fed
-SHA256: 6ecda9b4dbcf4a30a5df100826dd500a61f3aafe19b15052cda1461c29bacf7f
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-8
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 432
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-8_iphoneos-arm64e_cd81147fd5dc58c14bbfd05f13d83099cd9fa628b9aed8572a5f04adff132fec.deb
-Size: 53710
-MD5sum: de856a6a8bd1179aa4d9785754d7e56b
-SHA1: 6763c6bc78f09d7146fdbc557d45dfc0384f3675
-SHA256: cd81147fd5dc58c14bbfd05f13d83099cd9fa628b9aed8572a5f04adff132fec
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-9
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 432
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-9_iphoneos-arm64_d0940f5e98a5bedc9c33c61d80425dce07aaf5cfe7a2dfeb43b7dd93db11612a.deb
-Size: 54864
-MD5sum: 41bdb1c2269a800f3c5e91b7e8619090
-SHA1: 5570551b2bd89018295f405c241973e432eac4f7
-SHA256: d0940f5e98a5bedc9c33c61d80425dce07aaf5cfe7a2dfeb43b7dd93db11612a
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-9
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 432
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-9_iphoneos-arm64_16801d83b8825bcd85956fd798ddc575c51280849b79752afea4df5653880335.deb
-Size: 55008
-MD5sum: 55ef34b33854c3013af261f65b4246a0
-SHA1: 5bbfab02724a9c26e38662c662485a14d1b4e656
-SHA256: 16801d83b8825bcd85956fd798ddc575c51280849b79752afea4df5653880335
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-9
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 432
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-9_iphoneos-arm64_5e2f86d931367fdc3e5d1d79092ba12d60cea476ea4842bb861dd7ae39defeb1.deb
-Size: 55496
-MD5sum: 7293bafa2ab611e0dcc93126f3637ac9
-SHA1: 6dfeb16dc8465eaf2b455db4e787b309e0f924d0
-SHA256: 5e2f86d931367fdc3e5d1d79092ba12d60cea476ea4842bb861dd7ae39defeb1
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-9
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 432
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-9_iphoneos-arm64_ba975476a435c89c8b67a0e43cca728f4107e20d3564c5bb8501f32c77a77cae.deb
-Size: 55220
-MD5sum: eedfea39e80bab7eaf96df76ec99486a
-SHA1: 602aae99f4560b04f3510de7f0d28c09237d0976
-SHA256: ba975476a435c89c8b67a0e43cca728f4107e20d3564c5bb8501f32c77a77cae
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-9
 Architecture: iphoneos-arm
+Version: 2.0-8
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 432
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.huami.dyyy_2.0-8_iphoneos-arm_d8169900526c89ad11d53f4987e5030cd101ba9719822191615ed8aef07b08aa.deb
+Size: 53904
+MD5sum: 054a2554d705b5bfd2ec25e833f9c681
+SHA1: 6aad929e02a5de40c4528c1560b461afec5fcfb3
+SHA256: d8169900526c89ad11d53f4987e5030cd101ba9719822191615ed8aef07b08aa
+SHA512: acd0d9730a866dc8ebb502db7a3689419f138053723f6e5e318187fc7070fded10f1517328968b8e344cc1e180aadc07d4837ad7af5d20e182dedc320a258c19
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm
+Version: 2.0-9
+Priority: optional
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 432
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -1107,52 +372,17 @@ Size: 54894
 MD5sum: db8a7c18be1451e615b5cee64ef9c0e5
 SHA1: d8fcc061e058a330d18eae00e374fa748be6b5d1
 SHA256: 6e8da3ce98a30bf992f0c29b387ade7c4a1cd65dd43e1f98d7e31f4c733498f9
-Section: Tweaks
-Priority: optional
+SHA512: d568db74724df75f70bec3c653f1a2368eac23a39e66b1861302ff43d924b6265d5bed96d80d878f2d9512b3da9c0457ac536e1e86b9d89b7f1377382bb66a53
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
 Name: DYYY
+Author: huami
 
 Package: com.huami.dyyy
-Version: 2.0-9
 Architecture: iphoneos-arm
-Maintainer: huami
-Installed-Size: 432
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm/com.huami.dyyy_2.0-9_iphoneos-arm_93413b8ab2c635e821ee17a689598164d9ff736cd62553a3de8fd88001d7ec4d.deb
-Size: 55218
-MD5sum: 10143f736e73c11e0502ec100c53aaa3
-SHA1: 4465a543a9d5231ff00103ad8bcfb184bf3a7805
-SHA256: 93413b8ab2c635e821ee17a689598164d9ff736cd62553a3de8fd88001d7ec4d
-Section: Tweaks
+Version: 2.0-9
 Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-9
-Architecture: iphoneos-arm
-Maintainer: huami
-Installed-Size: 432
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm/com.huami.dyyy_2.0-9_iphoneos-arm_a77f4e1e4356e089850e0a7922256f1ab1af5b81c2bfa5d1babd3b61a513988c.deb
-Size: 55256
-MD5sum: 74adea4862d2b3a7ba6a04a1a5c8ffb6
-SHA1: d63293fe36d4a72694cdff2b2cff70bbe054f9f3
-SHA256: a77f4e1e4356e089850e0a7922256f1ab1af5b81c2bfa5d1babd3b61a513988c
 Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-9
-Architecture: iphoneos-arm
 Maintainer: huami
 Installed-Size: 432
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -1161,106 +391,55 @@ Size: 54566
 MD5sum: 1d4da9db155fa7ceb2f34ec147cc4670
 SHA1: ba2a8033edfeccc10e514381934ec7a6cad7e3ef
 SHA256: 760d54419049908316459aac8a4d6f7bf5e5ac672698cb8efec20e65796a85e7
-Section: Tweaks
-Priority: optional
+SHA512: 096d522aab3012820b04273e7f89b790cec9078a8a3bb7f357dc1ad75a1e24d7b161be9182247c707dfe69bcfced5b2fd6c606f1b90a919aecee899ec73b722e
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
 Name: DYYY
+Author: huami
 
 Package: com.huami.dyyy
-Version: 2.0-9
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 432
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-9_iphoneos-arm64e_7e5c7e55fea969cdfa04fcf78cfd499860e15daa497d092235b0660c4511e804.deb
-Size: 54936
-MD5sum: 471de75cb9f9ddcc3eb4eacc6c52b4f7
-SHA1: 72da73576870f83ea338e9560faa589a6ed9196b
-SHA256: 7e5c7e55fea969cdfa04fcf78cfd499860e15daa497d092235b0660c4511e804
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-9
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 432
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-9_iphoneos-arm64e_77d5f434e4052619d665be895845da01a93938b4bfa6f77c2f62d65696d4f775.deb
-Size: 54934
-MD5sum: a7517ab195773e3c214008fbb7c75b56
-SHA1: 0cb5f09cb13cf9d9b2e98f122de8259a33994719
-SHA256: 77d5f434e4052619d665be895845da01a93938b4bfa6f77c2f62d65696d4f775
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-9
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 432
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-9_iphoneos-arm64e_af7599480773e1d1b354ca37a9feb39160d31583ef87efd49553ccd7f9ee24f6.deb
-Size: 55186
-MD5sum: 1fd5bca8a1b131aef8a16d62d6616fcb
-SHA1: 179c0e236b9ce256ae9ad9093945c801e06e0e6a
-SHA256: af7599480773e1d1b354ca37a9feb39160d31583ef87efd49553ccd7f9ee24f6
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.0-9
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 432
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-9_iphoneos-arm64e_f8945840e378969078f546f9412f7a33b31c349f8c67654ca8ebe36977ec14b2.deb
-Size: 54370
-MD5sum: a610ce4dd61f6ae871adcb20c7ebb48e
-SHA1: 4c6f3a36c0be376adba455e03f982d2b4d8b0090
-SHA256: f8945840e378969078f546f9412f7a33b31c349f8c67654ca8ebe36977ec14b2
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.1-1
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 448
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.1-1_iphoneos-arm64_a37d8de37e17f932433625efadf3e33d59c09a31de5601d0fe1f6e94edd58935.deb
-Size: 62530
-MD5sum: fce2bd72f8b7fcb14c49caac14c18e82
-SHA1: 2c247c035d7e6692d99194c210d4523013fbcd69
-SHA256: a37d8de37e17f932433625efadf3e33d59c09a31de5601d0fe1f6e94edd58935
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.1-1
 Architecture: iphoneos-arm
+Version: 2.0-9
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 432
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.huami.dyyy_2.0-9_iphoneos-arm_93413b8ab2c635e821ee17a689598164d9ff736cd62553a3de8fd88001d7ec4d.deb
+Size: 55218
+MD5sum: 10143f736e73c11e0502ec100c53aaa3
+SHA1: 4465a543a9d5231ff00103ad8bcfb184bf3a7805
+SHA256: 93413b8ab2c635e821ee17a689598164d9ff736cd62553a3de8fd88001d7ec4d
+SHA512: c64062bbd1be28b67636ab8d55afdfe69f82cdae722e56f67910499d8e074d10e488a78d9783ef492d5f281452dd3b7b5c809428f590d1a941b39c5c9b6d4f5c
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm
+Version: 2.0-9
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 432
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.huami.dyyy_2.0-9_iphoneos-arm_a77f4e1e4356e089850e0a7922256f1ab1af5b81c2bfa5d1babd3b61a513988c.deb
+Size: 55256
+MD5sum: 74adea4862d2b3a7ba6a04a1a5c8ffb6
+SHA1: d63293fe36d4a72694cdff2b2cff70bbe054f9f3
+SHA256: a77f4e1e4356e089850e0a7922256f1ab1af5b81c2bfa5d1babd3b61a513988c
+SHA512: d03d5c9a9eaab920a9a6ae91bc597cdea1728f8d3246ff3a503ecae8e8fc6731e6f6563c8012a7b84e5cc5e21f13b9b4fdff5696c2f794316ce37991e6ec2cc1
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm
+Version: 2.1-1
+Priority: optional
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 448
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -1269,88 +448,17 @@ Size: 62868
 MD5sum: ebfa8f8192920ccb9a8ace1fdc5ca1c1
 SHA1: 79995e222b3bb6754812f472112f4b0d110a03ae
 SHA256: 982f832279b7366023b06e2479d471d29dcfeb110b3dd8de4a37ffdd34400c11
-Section: Tweaks
-Priority: optional
+SHA512: e3ac021e18efc89657944b2305d9226be546e477c13557ffdfdbc08d96c5568f8962336911cfcf2e898ebea0b09b08221bd036964f9f8c3157b87576cc61f7c9
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
 Name: DYYY
+Author: huami
 
 Package: com.huami.dyyy
-Version: 2.1-1
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 448
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.1-1_iphoneos-arm64e_0eb37d657a037455547c209c1244528ddd652bb28cf0af10cc17b9f97932cd57.deb
-Size: 62336
-MD5sum: 000fced15502b08676833e1a2b77980e
-SHA1: 81466c52e73001f844b030ac58f67627148d591f
-SHA256: 0eb37d657a037455547c209c1244528ddd652bb28cf0af10cc17b9f97932cd57
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.1-3
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 500
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.1-3_iphoneos-arm64_99bfe71796b4e68e6e42d4b81336c5ac46506ae9faef787dbe56d5003825cad6.deb
-Size: 72602
-MD5sum: 79a123b265eaf7a5ff66f58fb86c798d
-SHA1: 4926f38013d99bbeba08e471586229e49fdd005c
-SHA256: 99bfe71796b4e68e6e42d4b81336c5ac46506ae9faef787dbe56d5003825cad6
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.1-3
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 500
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.1-3_iphoneos-arm64_e5dda7b5468c815d374bc28f06823df2005b62f71297cea2f41b3681f59f7f23.deb
-Size: 72978
-MD5sum: 03d676a8a850403b3880727ce87d1438
-SHA1: 1a6ab9b069da410a8ac995e75c99edfced2e04f4
-SHA256: e5dda7b5468c815d374bc28f06823df2005b62f71297cea2f41b3681f59f7f23
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.1-3
 Architecture: iphoneos-arm
-Maintainer: huami
-Installed-Size: 500
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm/com.huami.dyyy_2.1-3_iphoneos-arm_f07860adc9941b45addf21f56cf021cc434acca085640e79e70e7f5fb49113be.deb
-Size: 71894
-MD5sum: a0270193814d5ef1c07db823cc0fe373
-SHA1: c145c6643e7cb0c408f03b8f1c1aba902b03433c
-SHA256: f07860adc9941b45addf21f56cf021cc434acca085640e79e70e7f5fb49113be
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
 Version: 2.1-3
-Architecture: iphoneos-arm
+Priority: optional
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 500
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -1359,70 +467,36 @@ Size: 72188
 MD5sum: 88cfc16173436400f9a880f27a58d0e1
 SHA1: d8b03fc5e2b1c4ec4a1fccb2e8d1c16a67adbc3c
 SHA256: 94470f4428307be7fb4180ea747478fed1f3ec5051f619db0b433e7824554148
-Section: Tweaks
-Priority: optional
+SHA512: 6a55b82611b7740f8ce7c8956efa22c8af2bd4ac2d016ccc66238547c0917809e410fc20b38632662e3ee0e9d0833a7cfab27ec5353ac89b418d752a0a75f728
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
 Name: DYYY
+Author: huami
 
 Package: com.huami.dyyy
-Version: 2.1-3
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 500
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.1-3_iphoneos-arm64e_acc4601db5efca8539f17f64d78491ef260b737a4f733792e4620f224a0f121b.deb
-Size: 72298
-MD5sum: c5232dc05b0ef8317a03d7de4d4d75b4
-SHA1: 5a5b09b7a06745f5773bc6e9da3e397abd5ac5dd
-SHA256: acc4601db5efca8539f17f64d78491ef260b737a4f733792e4620f224a0f121b
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.1-3
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 500
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.1-3_iphoneos-arm64e_f859c08dcebd6ccb3281784689c3440d899b6e58dc4c23bc2d4f64a5a2b40083.deb
-Size: 72022
-MD5sum: 3ab2329fb2118d87c7776d8e5a5beff5
-SHA1: d0e365c4fcdb96cb6fbe3c7a32a22be8f30fde40
-SHA256: f859c08dcebd6ccb3281784689c3440d899b6e58dc4c23bc2d4f64a5a2b40083
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.1-4
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 500
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.1-4_iphoneos-arm64_f6aa16340579d0561e4dbdd190e99461f559e6df91c202c87fa0d400846668c3.deb
-Size: 73452
-MD5sum: 1420d4fce7c7066d7cec1442c46778d7
-SHA1: 9c3a1f037a24fc054b1200bade081612e1005e37
-SHA256: f6aa16340579d0561e4dbdd190e99461f559e6df91c202c87fa0d400846668c3
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.1-4
 Architecture: iphoneos-arm
+Version: 2.1-3
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 500
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm/com.huami.dyyy_2.1-3_iphoneos-arm_f07860adc9941b45addf21f56cf021cc434acca085640e79e70e7f5fb49113be.deb
+Size: 71894
+MD5sum: a0270193814d5ef1c07db823cc0fe373
+SHA1: c145c6643e7cb0c408f03b8f1c1aba902b03433c
+SHA256: f07860adc9941b45addf21f56cf021cc434acca085640e79e70e7f5fb49113be
+SHA512: 80e994edcc200c88bbb5e47b08a77fd2c7969f7fedb1ea9693de27f652138c53e222af84e253b7ba2cf27fcd3e5c124d6a9f18aee0ee06d294bf43be3c188e0b
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm
+Version: 2.1-4
+Priority: optional
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 500
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -1431,52 +505,17 @@ Size: 73566
 MD5sum: 6931c31fa1a51ed92cfd6654e262786d
 SHA1: dec4622e84dbc5ba670b2c572ad2379977ffd4ab
 SHA256: 23a7e5eb1668e0ae0d8c82f62d6bae0950633374d4639b724f7a54f637091107
-Section: Tweaks
-Priority: optional
+SHA512: 9bf05d86918608cee8671a49f649a168ef75328948d901bc479f0d16181fcf9bcde6415bdcbf5bed1ec41fb81c47bd787d9b072d5cf7abda706dd11db895ce31
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
 Name: DYYY
+Author: huami
 
 Package: com.huami.dyyy
-Version: 2.1-4
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 500
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.1-4_iphoneos-arm64e_4e74018a878a25d3f4a35cf61cb42ea40b0eee979318a9295f8bf7e36ccd1bcc.deb
-Size: 73134
-MD5sum: 3e333ff590d4120e3c3729710c59a8a3
-SHA1: 01bb8a401dc771c3139d6bc38eef42afaa7cb1e8
-SHA256: 4e74018a878a25d3f4a35cf61cb42ea40b0eee979318a9295f8bf7e36ccd1bcc
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.1-5
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 516
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.1-5_iphoneos-arm64_00c17d5f74ea24a2ff173c1a53dc7b9b3fe71d2463233764607e2fb971dbd497.deb
-Size: 78620
-MD5sum: 60e7c7e687604916bec9548e533c11d6
-SHA1: e48f911228a3fba3f8c3cca5b60a7393c7114273
-SHA256: 00c17d5f74ea24a2ff173c1a53dc7b9b3fe71d2463233764607e2fb971dbd497
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.1-5
 Architecture: iphoneos-arm
+Version: 2.1-5
+Priority: optional
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 516
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -1485,52 +524,17 @@ Size: 78900
 MD5sum: d828c0ed1ed3ab574b5ee30e2413faa7
 SHA1: eb13baf8f2034f25146e87401688dcdf3c978eb4
 SHA256: 7f607ec77ea8f151ad07c861943adb803493076706aa0683b09f33861f7aef8e
-Section: Tweaks
-Priority: optional
+SHA512: 7c2192c737e3032d1a698224d7602726ba8f8c5eb35c7ad690fdc962d8628cf5ce897a1103a589835bfc9ccacae4f9412180080eb1f993bf4be4fc00ffadb0c8
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
 Name: DYYY
+Author: huami
 
 Package: com.huami.dyyy
-Version: 2.1-5
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 516
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.1-5_iphoneos-arm64e_daec1fea8215f2dfc7454aefccadae88eec5b28ffe6a10d8bff48dd34173258c.deb
-Size: 79370
-MD5sum: 5c0a8b805d6ec503e57791bc85493882
-SHA1: e0da7d24973d9f476155c784411503cf01b6ccfa
-SHA256: daec1fea8215f2dfc7454aefccadae88eec5b28ffe6a10d8bff48dd34173258c
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.1-6
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 584
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.1-6_iphoneos-arm64_36bdb1bb60654cd484ac18ee740ad1a3bea10462909fa47f8d4d03fa4c48505e.deb
-Size: 91912
-MD5sum: cff8e54c08acf0c2c8746704e17a4c6d
-SHA1: 36eaa375f4a6f481af4df1691240afd21e46c339
-SHA256: 36bdb1bb60654cd484ac18ee740ad1a3bea10462909fa47f8d4d03fa4c48505e
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.1-6
 Architecture: iphoneos-arm
+Version: 2.1-6
+Priority: optional
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 584
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -1539,52 +543,17 @@ Size: 91062
 MD5sum: a787c9e4b6eae13d7a61eaf727c39420
 SHA1: be6991ed0a61b1f4d710691d04516e02201a269e
 SHA256: d6d1039e4dfae7dd49624a2ff1a1dab6a9c3a9090e56c8e5e9eca5a99238355d
-Section: Tweaks
-Priority: optional
+SHA512: 7882b3e7f6af1a1c12ea2a8540453fbe03ea67c0ca37507e0a2d557d8cd6819a5e6ac09a221f58c1ef5b9fd154bd1c304b88267605cded087c277b96022f6c15
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
 Name: DYYY
+Author: huami
 
 Package: com.huami.dyyy
-Version: 2.1-6
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 584
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.1-6_iphoneos-arm64e_bbc2bbce0a0998a22282aeaaabb0356ef2ab44f6246ad92278a46c8047a7d13a.deb
-Size: 91090
-MD5sum: a04c669f739e938b2bf4914acac5c380
-SHA1: cf47ef276716529b4a43905a5fb45315fc3f2f30
-SHA256: bbc2bbce0a0998a22282aeaaabb0356ef2ab44f6246ad92278a46c8047a7d13a
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.1-7
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 648
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.1-7_iphoneos-arm64_59904e0615697aa94dba55032ede9a3add9a241ff87fdd9fd7fc79fd7a5ab74a.deb
-Size: 107728
-MD5sum: e4179c826841a2bb1b0fcf152934a821
-SHA1: 2c3785876ebdb7e2a4ea3dab1953bbb66f7cd924
-SHA256: 59904e0615697aa94dba55032ede9a3add9a241ff87fdd9fd7fc79fd7a5ab74a
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.1-7
 Architecture: iphoneos-arm
+Version: 2.1-7
+Priority: optional
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 648
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -1593,16 +562,1138 @@ Size: 107298
 MD5sum: e70666daffd132c6508781d0a6b43454
 SHA1: 2ae374f6f7033dba5fcf2edd8e344932dd61abd3
 SHA256: bd96d70da98f3ca0768d4d4121cb02acdd9433fe07e9186f57f6de3f129800d1
-Section: Tweaks
-Priority: optional
+SHA512: bbe2dbaa0101ffc26d1365be12a6ef47c72fc82380381cfb2b5c139e40802eb479c3a6265b7bf12fe771a39aad074b27f5d11a270e44b3771ce95f0e69081f37
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
 Name: DYYY
+Author: huami
 
 Package: com.huami.dyyy
+Architecture: iphoneos-arm64
+Version: 1.9
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_1.9_iphoneos-arm64_184dfb2b3650b1b41f9010f10ba78e1ec22a3dd7e8076437be571b76216eefdf.deb
+Size: 26516
+MD5sum: 59d67debbb803fad728f43320b22923e
+SHA1: 20ea646198dae20358ad4dab92a8fc8ec6d92f55
+SHA256: 184dfb2b3650b1b41f9010f10ba78e1ec22a3dd7e8076437be571b76216eefdf
+SHA512: f35227acb171bbc66679677a4168db8ecd762f521d2cb4fd04e8245227f2d27a851fbfe12311fe8e9acbcb5c04a8000cbbe5bf02c43630435aaf960978015c85
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64
+Version: 1.9-6
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 268
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_1.9-6_iphoneos-arm64_364841e7dc781e2ab6fdba166195b6ff7dc949a08dc786ba85b1164de5fb4b07.deb
+Size: 29186
+MD5sum: 6eecf67371b55a3353d676b742d74308
+SHA1: b28d0020c5480753b026fb6867d12424efe84bfd
+SHA256: 364841e7dc781e2ab6fdba166195b6ff7dc949a08dc786ba85b1164de5fb4b07
+SHA512: 5590e48f56169bb3368bacf271ac7dd3b277bd84dd0b7f3e2c8ff452dda29c66e2b3e56b2a857d043f569cfce6a52f7499425edfb81530152394e2a4b32ae95a
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64
+Version: 1.9-7
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 272
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_1.9-7_iphoneos-arm64_b6d9f28c71ef710e5c55b98cdf3fbd730b4016177f53efdc381a082374619e3c.deb
+Size: 33180
+MD5sum: b1b4e273118a07db34abfd61ffe6789c
+SHA1: 57d749ad0b2a0238f90048a0af127a9ecf6ca527
+SHA256: b6d9f28c71ef710e5c55b98cdf3fbd730b4016177f53efdc381a082374619e3c
+SHA512: d5a608ce95655199742399bc2d741792fa89d51abf43fc73eac5178a0bebc70da728d8082aad7b9e1389b54229e5b58e05ea58cb7f5fa32aee27690b0b1082d9
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64
+Version: 1.9-8
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 272
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_1.9-8_iphoneos-arm64_c07b95788244f5661eb7a271487a6ef50bb46696429833d7e307fd212f8ddb2e.deb
+Size: 34396
+MD5sum: 3e9e92a4b7dac002ad6963344ada3896
+SHA1: 8e316a55d39c9d82f239010fb228ffc37d56c2dd
+SHA256: c07b95788244f5661eb7a271487a6ef50bb46696429833d7e307fd212f8ddb2e
+SHA512: 8c6babac2dc755dc2ad1880a972514d1c26e829e2ee4586a160200c5b015adf15adfb7bffc425543d470d97f8ec3ca0040f74cc926ec4e3220aca5f3421b7363
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64
+Version: 1.9-9
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 272
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_1.9-9_iphoneos-arm64_f1557716cc8dd06d638371070d86a6c479c17900ae4f04aeb4128a8ac57cc64f.deb
+Size: 35224
+MD5sum: 385762227fe6a3842b6caa488dc60a72
+SHA1: 1d1ddff5d584314b21afaa025cb42b2d660db76e
+SHA256: f1557716cc8dd06d638371070d86a6c479c17900ae4f04aeb4128a8ac57cc64f
+SHA512: efedcdc127d54d4d6ce4f83a2026b57104a9854b41995fcfce90599b2edddccc48ab9558d17c27b3dbfdd0a658696db843dcec7a5a23cb91845a9f66e1b241ca
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64
+Version: 1.9-9+1
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 272
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_1.9-9+1_iphoneos-arm64_4f372a60a2261373a73af788fffe0bd372703ae3185ebd025c608144f7a137b8.deb
+Size: 34612
+MD5sum: 0a4aadaa2c543b04a99871624d04c045
+SHA1: e5869f9692c73ce44a5856fa8d0d0198150ea610
+SHA256: 4f372a60a2261373a73af788fffe0bd372703ae3185ebd025c608144f7a137b8
+SHA512: 65c4b8c62aa272ae8c82557ab7bba86659247983389f2882a036286b46ea56eba130ce80a842e00a6513093db63a6f6281449ff02b2e1773cbf67d8cade007f6
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64
+Version: 2.0-1
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 272
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-1_iphoneos-arm64_6101cc4931979fd5268348cee185b543a1909423f3988965a34a0c168744c5d0.deb
+Size: 35182
+MD5sum: 4c2460c96e691b03d3bd670fd7ac7703
+SHA1: af511232c1e20588132a75f60a3c99d7c71e5f07
+SHA256: 6101cc4931979fd5268348cee185b543a1909423f3988965a34a0c168744c5d0
+SHA512: 1a0c2685678a04bdb4a0556a5886139110d2d7bae5494fce48ef84202d987655e49507c66962b43c0e97928c09bcfb5dc61e360ff7a166a32c16e1463f79d7ff
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64
+Version: 2.0-2
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 272
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-2_iphoneos-arm64_7a0f05664a184051050f739ddbc60e386f62f296befd0437e5df9befe7600d1d.deb
+Size: 37028
+MD5sum: 546d2ded62ab55af35c9f325770b9a9e
+SHA1: 605b80ecb4b1f313ee9e5f35729a31a06919aa70
+SHA256: 7a0f05664a184051050f739ddbc60e386f62f296befd0437e5df9befe7600d1d
+SHA512: 1ad83f16733b4ada525f83641fb4fc7dbe2b0a30194f404a8ac1e26ebafe6ced42c3f8ddb3f2d07b388fce0508a26b08b5859277a138099086cd25f432633c71
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64
+Version: 2.0-2
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 272
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-2_iphoneos-arm64_db260ef09b6fedb13167407035643b4b2d1821ce7239bd839112f79aa5515ff4.deb
+Size: 37008
+MD5sum: 8e5c72c21a4063bf37fcc17b8702db54
+SHA1: e7f1465c209621a6513fd0e1582dea7ed8e5c550
+SHA256: db260ef09b6fedb13167407035643b4b2d1821ce7239bd839112f79aa5515ff4
+SHA512: 412b5c5a084d19f41fbd8abd285d870fd4dd152295707186e3826b6ad1206e8b13e2abf652fba30515fa464aebff957584a930ef66be0de25f10f95da7929353
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64
+Version: 2.0-3
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 400
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-3_iphoneos-arm64_24a0370be51809998dc42e735e4e58f2239b7021f170c140b8262aa6cae49041.deb
+Size: 44890
+MD5sum: 6f17c4cc03d14530d53610908a78d52a
+SHA1: cbf7ad5c436b3a16509c62f74a327318db263b08
+SHA256: 24a0370be51809998dc42e735e4e58f2239b7021f170c140b8262aa6cae49041
+SHA512: eb72fb738e4f80bb5b1f136637c1ae8b0ac50ecb16eda9ffc118638210ae3a74739509025c7aee8c5ec4d22787882f72aa5ed9a400c860f06fe67981ed6ff7f9
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64
+Version: 2.0-3
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 400
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-3_iphoneos-arm64_e52b149b03d0492f0736e74465bede0a96e2dd6692d41ea8c5b5bca8dc26288c.deb
+Size: 45560
+MD5sum: 4bde4ea7a7ec4a94e6f411f3120ddc63
+SHA1: 469b9256424e0a2f289bcd4e5ebd53e31b30f69b
+SHA256: e52b149b03d0492f0736e74465bede0a96e2dd6692d41ea8c5b5bca8dc26288c
+SHA512: 869476d6802f29922d523d7c1a5a78ac5ad5a3f0ae905d0d90b20a560f6c7a6e545b376285e01d5218e94ad97996c7db3fae1b9075c42c51c5ef1dc16afbbdc8
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64
+Version: 2.0-4
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 400
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-4_iphoneos-arm64_8d09bb20cece464ff2ff0a3aff3eeed93e9c65f7484b0c2c566e5510355b4ad5.deb
+Size: 46516
+MD5sum: 6e0bdfddafadfd1f5dd8ddde09ed4c28
+SHA1: f7d865939bc7054dd6c086292611579ff9d3326e
+SHA256: 8d09bb20cece464ff2ff0a3aff3eeed93e9c65f7484b0c2c566e5510355b4ad5
+SHA512: 0ee1b481d7175f4f9f2e709ed3fe258462faac7fd484999b8d13f4dc6b9a0cda3c10a905fd04a7310e9b04e6027eb5def852c04f537de41b338a269b3cd095e6
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64
+Version: 2.0-5
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 400
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-5_iphoneos-arm64_b139f7c9e865b5bc6fc7d45e37010e69a13c2093f8dd66106f0cd764ee861750.deb
+Size: 48570
+MD5sum: eeb95b2d4d07cedb3ac94e9fd735a20f
+SHA1: 5ca379f361327c1b962bde918d14273c63f28c0a
+SHA256: b139f7c9e865b5bc6fc7d45e37010e69a13c2093f8dd66106f0cd764ee861750
+SHA512: 0e32c7896c73cc7da194c56c3416131a67ac084fdf475ff9b98ed5ff1e6868f53db16d15a46cd3f3ee7d626939c4331192f65f3a4d08ba7e590dcda28d3a821a
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64
+Version: 2.0-6
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 400
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-6_iphoneos-arm64_f7ea05eaa33a0774490b32216fcd65e18e886a6309826780c014af2ac2459a7b.deb
+Size: 49098
+MD5sum: 1f98daea98fbb709c38e3d66be832506
+SHA1: 83c697be5fdd48426b3103362c082e4db75422e3
+SHA256: f7ea05eaa33a0774490b32216fcd65e18e886a6309826780c014af2ac2459a7b
+SHA512: af92db587a493fff7265f0c55147863834e462d301bf9c4cc8bacfec0fec3eaf52423e3eae8a55863d6523b48c74bdb9a192427d00ebc3da558dbe3b7ddfcca4
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64
+Version: 2.0-7
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 432
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-7_iphoneos-arm64_4441885de267cd0ab3b7ef30998cd79677721ce9cefecb775da9b4c481601e0b.deb
+Size: 53672
+MD5sum: 122bc6d2da4fe8d16d853f30e257f064
+SHA1: 8a77a833ab0527d86fa99159a12a069585e56b23
+SHA256: 4441885de267cd0ab3b7ef30998cd79677721ce9cefecb775da9b4c481601e0b
+SHA512: 1e8b719022ed77321dac794d9747c3e7552550b2a40883a6a4382560ef875815eb3bb05bc777a4bc9a962b13d2c8af9e80c53b7f33cbd60cf3a9f8e8ad1ae72a
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64
+Version: 2.0-8
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 432
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-8_iphoneos-arm64_23c30f322990350d844577c2cdf715d5564f42c84e2deb3672e4a1b15b8d39d4.deb
+Size: 54024
+MD5sum: 7a7bf8a1a579fe32c86ba2bf1467d4ba
+SHA1: 827d86cf07bd9f96f9f166d031bd73f2cfb07606
+SHA256: 23c30f322990350d844577c2cdf715d5564f42c84e2deb3672e4a1b15b8d39d4
+SHA512: 537baf19499929e01f818125786727f293f4e5b37b2854f2983489d191da18c15c7e67be1a9cfb0d1fe1760fa36eb5cc394ad7c087f830766efa7d874de14d01
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64
+Version: 2.0-8
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 432
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-8_iphoneos-arm64_6d06d1da3cc074dc1df861219ee0aa8f64e582acf33866353a2ff7f693d153b2.deb
+Size: 54020
+MD5sum: 7d3bd4aaec08a6a0f9ed209558a5e5dc
+SHA1: 1bd1bfd13487a7f33978d9afdf67b2cd7f71d957
+SHA256: 6d06d1da3cc074dc1df861219ee0aa8f64e582acf33866353a2ff7f693d153b2
+SHA512: 78f05194b71d06a13a48672207281ed361ac55515ca5d791506ee95cd1baad6ee539be8d1e144a4345341fbf10d410eef5e2dd12e48a3c62b2cfbf88cd17cd60
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64
+Version: 2.0-8
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 432
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-8_iphoneos-arm64_781ab650028114aef8188abd8f33578eedb86ec7db72157f85516196cd986321.deb
+Size: 54030
+MD5sum: 7efc0cc49a65f12d018d4cdda36c9f49
+SHA1: 700c4d90c3eac4323c2d7ee80988dc8b59204b5d
+SHA256: 781ab650028114aef8188abd8f33578eedb86ec7db72157f85516196cd986321
+SHA512: eaab6c6dbc62fba700377198a65c22f069b570829527845a5a1807ddbda52d6fdadbc54020bcaf16f4429281949788a80cdbe8915ff1a1c86a0426c1ef072bdf
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64
+Version: 2.0-8
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 432
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-8_iphoneos-arm64_87f70699d20bc0eb561928dfdb701e246d1895d4c3f974d352de7e9111150acc.deb
+Size: 53776
+MD5sum: c95c2eb88f8a676361e9577481fe733a
+SHA1: bc7a88779648d8694d515bc48f7a6896d990b78a
+SHA256: 87f70699d20bc0eb561928dfdb701e246d1895d4c3f974d352de7e9111150acc
+SHA512: 83eb3fe3a8de617c37787ce6b88ae0728381338f1b6f8ff3ea4ef35f469de52616c82667652fd33c7a61cf65d98ab5d30411027028c8124e42bebe5525cd28f9
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64
+Version: 2.0-9
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 432
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-9_iphoneos-arm64_16801d83b8825bcd85956fd798ddc575c51280849b79752afea4df5653880335.deb
+Size: 55008
+MD5sum: 55ef34b33854c3013af261f65b4246a0
+SHA1: 5bbfab02724a9c26e38662c662485a14d1b4e656
+SHA256: 16801d83b8825bcd85956fd798ddc575c51280849b79752afea4df5653880335
+SHA512: 5169b1abcef7e3208b3efa41d852a677307b4b3c1f6386d2182877332a72253867ac287ed64441dadfadba984815b1d5f6b41698c03dd7410def435df8733cdd
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64
+Version: 2.0-9
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 432
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-9_iphoneos-arm64_5e2f86d931367fdc3e5d1d79092ba12d60cea476ea4842bb861dd7ae39defeb1.deb
+Size: 55496
+MD5sum: 7293bafa2ab611e0dcc93126f3637ac9
+SHA1: 6dfeb16dc8465eaf2b455db4e787b309e0f924d0
+SHA256: 5e2f86d931367fdc3e5d1d79092ba12d60cea476ea4842bb861dd7ae39defeb1
+SHA512: ead2a4532014c95cb11390e6129c07ffe4332948db30147cab0831248f4388a5a8369c16872ac320aee190b6f578ba6b8f48d2d8c0c8b5ce2427fe6d68ba9297
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64
+Version: 2.0-9
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 432
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-9_iphoneos-arm64_ba975476a435c89c8b67a0e43cca728f4107e20d3564c5bb8501f32c77a77cae.deb
+Size: 55220
+MD5sum: eedfea39e80bab7eaf96df76ec99486a
+SHA1: 602aae99f4560b04f3510de7f0d28c09237d0976
+SHA256: ba975476a435c89c8b67a0e43cca728f4107e20d3564c5bb8501f32c77a77cae
+SHA512: ae3da35b6b1584c06e6c28b435805c7a5596ebda3ad539fdd82383897146a1f995ca6337e2e967c842a77448808b1e061d2b477707c9116efebd6a1c9eb00992
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64
+Version: 2.0-9
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 432
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.0-9_iphoneos-arm64_d0940f5e98a5bedc9c33c61d80425dce07aaf5cfe7a2dfeb43b7dd93db11612a.deb
+Size: 54864
+MD5sum: 41bdb1c2269a800f3c5e91b7e8619090
+SHA1: 5570551b2bd89018295f405c241973e432eac4f7
+SHA256: d0940f5e98a5bedc9c33c61d80425dce07aaf5cfe7a2dfeb43b7dd93db11612a
+SHA512: 9d62907d67d005d409ee3ee3e24445a0ad3cfe452ab710a7bebd609e680013b476feebcc32a2ffe495150f390f75918fe80305eff715141c8609476c73962d08
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64
+Version: 2.1-1
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 448
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.1-1_iphoneos-arm64_a37d8de37e17f932433625efadf3e33d59c09a31de5601d0fe1f6e94edd58935.deb
+Size: 62530
+MD5sum: fce2bd72f8b7fcb14c49caac14c18e82
+SHA1: 2c247c035d7e6692d99194c210d4523013fbcd69
+SHA256: a37d8de37e17f932433625efadf3e33d59c09a31de5601d0fe1f6e94edd58935
+SHA512: 69ade088c8ac4c153f153ea8820fbbabc786771654cb3691986e651df858eeb371c9465ebf0926bf24cec395421b8c5ad93b3f574c14a7b79887e49ae0cc286a
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64
+Version: 2.1-3
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 500
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.1-3_iphoneos-arm64_99bfe71796b4e68e6e42d4b81336c5ac46506ae9faef787dbe56d5003825cad6.deb
+Size: 72602
+MD5sum: 79a123b265eaf7a5ff66f58fb86c798d
+SHA1: 4926f38013d99bbeba08e471586229e49fdd005c
+SHA256: 99bfe71796b4e68e6e42d4b81336c5ac46506ae9faef787dbe56d5003825cad6
+SHA512: e2a6789fe728faca447dbd33b91360ba502280d4273cb57e6363713f553498b7fbdf9b8fdea0c6184eb2c4781d77ff1bd7a49d815ec71a91fd9f533630b96cb6
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64
+Version: 2.1-3
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 500
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.1-3_iphoneos-arm64_e5dda7b5468c815d374bc28f06823df2005b62f71297cea2f41b3681f59f7f23.deb
+Size: 72978
+MD5sum: 03d676a8a850403b3880727ce87d1438
+SHA1: 1a6ab9b069da410a8ac995e75c99edfced2e04f4
+SHA256: e5dda7b5468c815d374bc28f06823df2005b62f71297cea2f41b3681f59f7f23
+SHA512: b0ae98f387c5834a60bd24578d1b30acc231d437d54481675c1f186578cb40cd4574b7806deac99553c6b789325dede2e017f937d072e5683207395ae0aa5040
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64
+Version: 2.1-4
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 500
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.1-4_iphoneos-arm64_f6aa16340579d0561e4dbdd190e99461f559e6df91c202c87fa0d400846668c3.deb
+Size: 73452
+MD5sum: 1420d4fce7c7066d7cec1442c46778d7
+SHA1: 9c3a1f037a24fc054b1200bade081612e1005e37
+SHA256: f6aa16340579d0561e4dbdd190e99461f559e6df91c202c87fa0d400846668c3
+SHA512: c3ffe4d72b855eadc66431971ed1c790969adf47aebfe7c80e3812d5c69a65bb1e6a7595a11d14c286197f5f197004cb45ab1e5159965c261753e56acd64e00c
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64
+Version: 2.1-5
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 516
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.1-5_iphoneos-arm64_00c17d5f74ea24a2ff173c1a53dc7b9b3fe71d2463233764607e2fb971dbd497.deb
+Size: 78620
+MD5sum: 60e7c7e687604916bec9548e533c11d6
+SHA1: e48f911228a3fba3f8c3cca5b60a7393c7114273
+SHA256: 00c17d5f74ea24a2ff173c1a53dc7b9b3fe71d2463233764607e2fb971dbd497
+SHA512: d83ef45eb50b4f5c61cf7c5f1cb7e9713853796ccc3890edb6aa1cad9997fb7cb24876b1ea1e7269f004ced5e19cb537488fb53920bfb4a9a5eb657f9ca55cfd
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64
+Version: 2.1-6
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 584
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.1-6_iphoneos-arm64_36bdb1bb60654cd484ac18ee740ad1a3bea10462909fa47f8d4d03fa4c48505e.deb
+Size: 91912
+MD5sum: cff8e54c08acf0c2c8746704e17a4c6d
+SHA1: 36eaa375f4a6f481af4df1691240afd21e46c339
+SHA256: 36bdb1bb60654cd484ac18ee740ad1a3bea10462909fa47f8d4d03fa4c48505e
+SHA512: 7edaf57d452ef1092e5ddb6dee14131628d84de0932d0cc94693473c0a39a2204c7042c9d4be14588b1af417099e81cc77e9d0f1335919b66bf1033402ec397d
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64
 Version: 2.1-7
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 648
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.1-7_iphoneos-arm64_59904e0615697aa94dba55032ede9a3add9a241ff87fdd9fd7fc79fd7a5ab74a.deb
+Size: 107728
+MD5sum: e4179c826841a2bb1b0fcf152934a821
+SHA1: 2c3785876ebdb7e2a4ea3dab1953bbb66f7cd924
+SHA256: 59904e0615697aa94dba55032ede9a3add9a241ff87fdd9fd7fc79fd7a5ab74a
+SHA512: 79497845893c7cec19f58d5c1f7f31ed08e75973a21c238f205fa7afe8de9a556b387aa7df50a81210f0e586d58b6a2f46f050484abbe97961158415536f8cb6
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
 Architecture: iphoneos-arm64e
+Version: 1.9
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_1.9_iphoneos-arm64e_63a3762ad348957c9a26a2ca5a16fd6589c54fdd973e2e3e7bc1d9e97a3e550a.deb
+Size: 26492
+MD5sum: 5c00481ef8363f9916446af84619bf93
+SHA1: 973a63e4cb077a57266de103693a7c6601a82daa
+SHA256: 63a3762ad348957c9a26a2ca5a16fd6589c54fdd973e2e3e7bc1d9e97a3e550a
+SHA512: d1b8e056a116bac37e38c7c82e77752ef321f53e2effb9f5e89b3e8384732a79ddf6a9a8d0de3e797955aedbc24d1e2acde33a55519490b96694a4b807fddb06
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64e
+Version: 1.9-6
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 268
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_1.9-6_iphoneos-arm64e_8b72b6eddce6d44c58645fa089761343a5f0e3cbd3a122a50337335cd0ca31fe.deb
+Size: 29292
+MD5sum: eb5bc82f08baa3ef3ba7e40916272c39
+SHA1: e5bca0b63fc7a1958d220af621fa52c7939a1280
+SHA256: 8b72b6eddce6d44c58645fa089761343a5f0e3cbd3a122a50337335cd0ca31fe
+SHA512: 0deb0041b992b0b7ef8377f634e013d4a223f9dc616c188f443f7be47481fcc2c10e3814ccc468c765e9469972736526d9ef4b696f0926d1c9dc89c2e5370cb9
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64e
+Version: 1.9-7
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 272
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_1.9-7_iphoneos-arm64e_3e52a1d8ab8ccb4b6ed5f760fd392ad7a520f380f4958658565ab6f351aaa24a.deb
+Size: 33110
+MD5sum: 2e2a24525046d1ccb8517b8b234e7bf8
+SHA1: 37912feff5251bc4c7888e407a46c2245b1c1146
+SHA256: 3e52a1d8ab8ccb4b6ed5f760fd392ad7a520f380f4958658565ab6f351aaa24a
+SHA512: e2be4e049dcd558508a4424e2b9c314eeb699238e1104993bc13d583e22cf1afbfb3b068bd14158bf161d9de51be585d7359cf8ece1aa82a6eaab12f4af812d5
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64e
+Version: 1.9-8
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 272
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_1.9-8_iphoneos-arm64e_515d0ae1afcaa6539329328742157ae20764bde243f659d5fe8b97f0b214f20d.deb
+Size: 34254
+MD5sum: 1dd47a8266b77bc7e6aa1ce85cb5760d
+SHA1: b4413eb435564b3e5c10998733740bd58eb698be
+SHA256: 515d0ae1afcaa6539329328742157ae20764bde243f659d5fe8b97f0b214f20d
+SHA512: 527abfd22a511d14f86dc54d8fd876644257e02205d9fbca830577b0e7b42574ec9f8b29210d4b948b7d5cccfce19de7b90372e9e3b8e167ca551d410da9cf1a
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64e
+Version: 1.9-9
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 272
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_1.9-9_iphoneos-arm64e_77c88e3296e5c9f23e48f229d70ab392258d476a6cec5f0a5036d5e12535a82e.deb
+Size: 35240
+MD5sum: 5560070ba7eb563c30689cf8eea769f6
+SHA1: 6273ecfa898c18c810dd1045d7cf1471a8f0798d
+SHA256: 77c88e3296e5c9f23e48f229d70ab392258d476a6cec5f0a5036d5e12535a82e
+SHA512: 7e70ab700c0dfd2c42e6d7a5bb996a8ee3afedf9f4a18e136ce9f0a2dd37d3c3bfb36e36f32c90fd9ab269aebfdd647c4be4412fb9deb921b0497f8599a28625
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64e
+Version: 1.9-9+1
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 272
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_1.9-9+1_iphoneos-arm64e_0cf665cb5df8664ffaa034947cd3e609771a487e24098ef0ee9135606bdd8a58.deb
+Size: 34448
+MD5sum: 36a06906a6665a93f66c8297ca042d95
+SHA1: 2705df54bed4340f852146d722746fc06dde7fb4
+SHA256: 0cf665cb5df8664ffaa034947cd3e609771a487e24098ef0ee9135606bdd8a58
+SHA512: 3aefd1063c942c0c798f9813a01377a4d8c5e2a5c2fbf754d04eec5516a67b6a6a898c39214924fb0f60f6dc9217fc5ea65a1f0ae2a937a67f836b00d4ea4f34
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64e
+Version: 2.0-1
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 272
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-1_iphoneos-arm64e_68289aa98efa8a75778e1631d12eb2527e16adfda88f16627fe3ae26d9bbe774.deb
+Size: 35052
+MD5sum: e9917f98f485da25419337400ffd32c6
+SHA1: 9a04e570f9be24f4b79648284175bd2c44cce1f5
+SHA256: 68289aa98efa8a75778e1631d12eb2527e16adfda88f16627fe3ae26d9bbe774
+SHA512: e5456fb4750ef49864ff7601740b2e8b2d477830967e39503a61da3dced7f41096244a39d7c5f9c7a958fde00dbf0aa861bbce21f90594d776aff3baf4bc90ff
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64e
+Version: 2.0-2
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 272
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-2_iphoneos-arm64e_90d993349e862c9ce1f32046789d644c1fd76fbfec0d612754dfbc99ee248136.deb
+Size: 36858
+MD5sum: ad87341f835ee6d9f43d8a7ddf9025cc
+SHA1: 97cabbdba9929abdf0785bab64ddd534e7c971a4
+SHA256: 90d993349e862c9ce1f32046789d644c1fd76fbfec0d612754dfbc99ee248136
+SHA512: f039c1ff5510ef8551e95d8800162a2afd5fac4dc7a627d357bc6eb9254334e7d7332b7359a3ace4ecb393f4c1d25fa35545e378a5e4ec295b6426285fa9aa85
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64e
+Version: 2.0-2
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 272
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-2_iphoneos-arm64e_f2bde4c4aa6e9f4b84b9f8b73755b9b1d2b151aea53ccb67c18d620cb94ddab5.deb
+Size: 36912
+MD5sum: cbe7fa7e5332bab49640857992a96a40
+SHA1: 2b83ca6f19f249e19e88cbafe406f79ef979a885
+SHA256: f2bde4c4aa6e9f4b84b9f8b73755b9b1d2b151aea53ccb67c18d620cb94ddab5
+SHA512: 2a50d397401554e707fb24056a28043215d7e0fbb2d9cf9a59c1be87820ab10db6cec0b794f4d8f8b4979eb3dd32459a66bb7eaeeab01e83c7da50d7726e4985
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64e
+Version: 2.0-3
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 400
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-3_iphoneos-arm64e_e73fd60754c05598784777a8601fc073ea30b24e956e09d078ae2f92cec37866.deb
+Size: 45056
+MD5sum: 7fc12187eec249906187ade2cdd895e1
+SHA1: e8ce2ef263becd422c156fd7b75d7547cddb0e6d
+SHA256: e73fd60754c05598784777a8601fc073ea30b24e956e09d078ae2f92cec37866
+SHA512: eb7ccb35d5fb396c7bce7b2304b8b886bd0bb32427b562b184d36215aee54997cdc327f72415ebd0f8b2a65a1e28e03a8444ce2a65f1be2d077bca578634befa
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64e
+Version: 2.0-3
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 400
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-3_iphoneos-arm64e_f6885f7f5bd4f162af1bdc65e65f76f9f7d540e25d71b17815b08504c87a3f43.deb
+Size: 46032
+MD5sum: cf0c1567bb6fea8eb09efe4afac68896
+SHA1: db7c6f9084937fad5f7a862868fd73dfb7784ae4
+SHA256: f6885f7f5bd4f162af1bdc65e65f76f9f7d540e25d71b17815b08504c87a3f43
+SHA512: b052ebad114673c8d2646dc371ff24690ba5bd29e9436646585a1cc214e0f8aec5ca139d61f8c0880a18d4f5c9fa94c93d3234bf70c24d2d5bb8d8f2e60040bc
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64e
+Version: 2.0-4
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 400
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-4_iphoneos-arm64e_5a0302e0d5154fdb957073361e489593dc15afcc50fe5ac67a6cec4755d51070.deb
+Size: 46254
+MD5sum: 6d5e0f3a5a6c34af01c6bac360085ff4
+SHA1: a5614b49b5b407a0585759986d83e4af1148601f
+SHA256: 5a0302e0d5154fdb957073361e489593dc15afcc50fe5ac67a6cec4755d51070
+SHA512: 61f149a1a12a6b1d6aa06602e9a6eb7a5d8d584d4dd4943b75fbe87bb288b8c81988da33e7eb4da4fa993b8f08ead2c1ec8a9c423b37898a6b2229fa7bf789aa
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64e
+Version: 2.0-5
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 400
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-5_iphoneos-arm64e_6afee348d28998fbdd3116c015ec6ab809489a913037df483a8e5203930b6197.deb
+Size: 48098
+MD5sum: 3d3ae92451ce178c2352c09ddda42860
+SHA1: 42c16906063c399bfdb16aa5b7eaee6ed25d276d
+SHA256: 6afee348d28998fbdd3116c015ec6ab809489a913037df483a8e5203930b6197
+SHA512: 8a84c08397e78ab1f4b59601bf2d113e332a30a1a171713f450f9542d37a565863b8721f93c1fe6973a74dfe445205c85fbc20e6a16b5173590cc32a8bc624cf
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64e
+Version: 2.0-6
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 400
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-6_iphoneos-arm64e_0da8ac78a0da9d37b2c812a514c8f722c9c918ce62df63326d09795f8c1fee81.deb
+Size: 50056
+MD5sum: 25b88133f8134f3398efaaecea54bfed
+SHA1: 9b26979a754225f853ef061954585c803394d9f9
+SHA256: 0da8ac78a0da9d37b2c812a514c8f722c9c918ce62df63326d09795f8c1fee81
+SHA512: ac1c90093334b0b53648ccb404ac915b6370f66d359fbf34b780c655b09d3d90dc1ad327e3fb324d67674534b172b60cefa1703e010928f019b5de085de3dd79
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64e
+Version: 2.0-7
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 432
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-7_iphoneos-arm64e_cb8dff3a7f258120d62b334043af60a8b159350a0f6d0c04e1e3bf2681eab119.deb
+Size: 53746
+MD5sum: 5a980f94b56c76929ed31f66461aedbb
+SHA1: cd24b29e2199d6ee00966dccd94fc954a1258cc9
+SHA256: cb8dff3a7f258120d62b334043af60a8b159350a0f6d0c04e1e3bf2681eab119
+SHA512: 87dff465d31a4acab034f8c64a0e7f169d347c364864b59ed6435dc684c03644e3d2c8c4779c141efffd0dc9c033f85569f5057f5fc3546cf3645c1ff65e77e4
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64e
+Version: 2.0-8
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 432
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-8_iphoneos-arm64e_6ecda9b4dbcf4a30a5df100826dd500a61f3aafe19b15052cda1461c29bacf7f.deb
+Size: 53288
+MD5sum: b0a1bca8273a8682a3a0db0daa28916e
+SHA1: 039e4d759700c357b3df6ea2f679ce3cf7206fed
+SHA256: 6ecda9b4dbcf4a30a5df100826dd500a61f3aafe19b15052cda1461c29bacf7f
+SHA512: 53cdb587cc41b01645fba5a17679770d937f92a6c60606647c3c4cc52ce3c62e9829817a7fd3a0b637407b210ba918a0987135e8339661c704e603f2ff27623c
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64e
+Version: 2.0-8
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 432
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-8_iphoneos-arm64e_b2bbc718a93082e03b073f205e03b6beb1e041f1f8dcbfab114eb3725fed1e9e.deb
+Size: 53952
+MD5sum: 68a0eccbf768308e0b49bee043b2cdfa
+SHA1: 35bbfc66044130d64b0c5bfcaf65419531aeb247
+SHA256: b2bbc718a93082e03b073f205e03b6beb1e041f1f8dcbfab114eb3725fed1e9e
+SHA512: a1d38a54899c2d6bfac2dcdef2ca7c14845fad23daf37275abe3cd2a9bd53c63014bec737f6f80b185862f8f6a50c0ffd5985910cfe59094ead80d255919ff6b
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64e
+Version: 2.0-8
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 432
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-8_iphoneos-arm64e_c874804b6b00a2f7d4e4e484174f96adb558add3ce7c556dcdfc171a479af60f.deb
+Size: 53758
+MD5sum: 720a199c8ddb677458e8b2b545017710
+SHA1: 8da61ef845efce5aa62c80b13b820c29bb16f26f
+SHA256: c874804b6b00a2f7d4e4e484174f96adb558add3ce7c556dcdfc171a479af60f
+SHA512: b40121595ddd44b11dbb003ea82332842169222afd83a626be4eab47548b9aa66d1c3e68e8e0a70209d33ebd93b1a3d3a40e592566c027da4fd6b03a9eb6a4aa
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64e
+Version: 2.0-8
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 432
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-8_iphoneos-arm64e_cd81147fd5dc58c14bbfd05f13d83099cd9fa628b9aed8572a5f04adff132fec.deb
+Size: 53710
+MD5sum: de856a6a8bd1179aa4d9785754d7e56b
+SHA1: 6763c6bc78f09d7146fdbc557d45dfc0384f3675
+SHA256: cd81147fd5dc58c14bbfd05f13d83099cd9fa628b9aed8572a5f04adff132fec
+SHA512: 19905ff0c1cf62239f7d302ffaf07d66f7993b6c74fb33567b47b3a3ad7146af1b1518459188b4293ffbd91bf46e94fe4404f2dca8b538cca383a9837566d6e8
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64e
+Version: 2.0-9
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 432
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-9_iphoneos-arm64e_77d5f434e4052619d665be895845da01a93938b4bfa6f77c2f62d65696d4f775.deb
+Size: 54934
+MD5sum: a7517ab195773e3c214008fbb7c75b56
+SHA1: 0cb5f09cb13cf9d9b2e98f122de8259a33994719
+SHA256: 77d5f434e4052619d665be895845da01a93938b4bfa6f77c2f62d65696d4f775
+SHA512: 17900e6ae9b31320382d2f0b1d730a274d3dfd9f4022f95e53be5a9355d9858991f374f69fffd9dacdea14577eba4723ac94a1b3f54e9d976fb083cdbf01a606
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64e
+Version: 2.0-9
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 432
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-9_iphoneos-arm64e_7e5c7e55fea969cdfa04fcf78cfd499860e15daa497d092235b0660c4511e804.deb
+Size: 54936
+MD5sum: 471de75cb9f9ddcc3eb4eacc6c52b4f7
+SHA1: 72da73576870f83ea338e9560faa589a6ed9196b
+SHA256: 7e5c7e55fea969cdfa04fcf78cfd499860e15daa497d092235b0660c4511e804
+SHA512: 1d1468e999ea57293c4273d70ff8182b57b9b9a56c79c68ec8e873f4b052b641e793eba832ac42abb80bcde90c2c5648dec144e216468cd95680756c6b952d9b
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64e
+Version: 2.0-9
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 432
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-9_iphoneos-arm64e_af7599480773e1d1b354ca37a9feb39160d31583ef87efd49553ccd7f9ee24f6.deb
+Size: 55186
+MD5sum: 1fd5bca8a1b131aef8a16d62d6616fcb
+SHA1: 179c0e236b9ce256ae9ad9093945c801e06e0e6a
+SHA256: af7599480773e1d1b354ca37a9feb39160d31583ef87efd49553ccd7f9ee24f6
+SHA512: 1c320503f60806bc2abb044f35bca5ca257892fe706bbeec1d5ae46a62028196201f0dff39d9f7b28c2476f7039b278003840856111339d34487a232766fe749
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64e
+Version: 2.0-9
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 432
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.0-9_iphoneos-arm64e_f8945840e378969078f546f9412f7a33b31c349f8c67654ca8ebe36977ec14b2.deb
+Size: 54370
+MD5sum: a610ce4dd61f6ae871adcb20c7ebb48e
+SHA1: 4c6f3a36c0be376adba455e03f982d2b4d8b0090
+SHA256: f8945840e378969078f546f9412f7a33b31c349f8c67654ca8ebe36977ec14b2
+SHA512: 1bdc87aa09530e077d2d54377313d435d0a52dc7e3d94d88988632b307ceda44d9b70f7e37c851770c7b44ee5aec43ee8b58c86b1e32f7796ad857d188d70ecd
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64e
+Version: 2.1-1
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 448
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.1-1_iphoneos-arm64e_0eb37d657a037455547c209c1244528ddd652bb28cf0af10cc17b9f97932cd57.deb
+Size: 62336
+MD5sum: 000fced15502b08676833e1a2b77980e
+SHA1: 81466c52e73001f844b030ac58f67627148d591f
+SHA256: 0eb37d657a037455547c209c1244528ddd652bb28cf0af10cc17b9f97932cd57
+SHA512: a5bea2dc4b162fb4df50a8fb2f6b07d6912241826eb9b88a9317c77bf1e6644b15254d48919386a6549150f4512ca564f8915f80238fd4822ee414dbf3e5404a
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64e
+Version: 2.1-3
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 500
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.1-3_iphoneos-arm64e_acc4601db5efca8539f17f64d78491ef260b737a4f733792e4620f224a0f121b.deb
+Size: 72298
+MD5sum: c5232dc05b0ef8317a03d7de4d4d75b4
+SHA1: 5a5b09b7a06745f5773bc6e9da3e397abd5ac5dd
+SHA256: acc4601db5efca8539f17f64d78491ef260b737a4f733792e4620f224a0f121b
+SHA512: 78a0840ae15f48368557a050057dd0fc0437ed8cddd468c2427e23ff3fbf7f675b9f4bc1c9cae7fb084aa68474dc57e2463234a442a7634bc4db2f1a070ff905
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64e
+Version: 2.1-3
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 500
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.1-3_iphoneos-arm64e_f859c08dcebd6ccb3281784689c3440d899b6e58dc4c23bc2d4f64a5a2b40083.deb
+Size: 72022
+MD5sum: 3ab2329fb2118d87c7776d8e5a5beff5
+SHA1: d0e365c4fcdb96cb6fbe3c7a32a22be8f30fde40
+SHA256: f859c08dcebd6ccb3281784689c3440d899b6e58dc4c23bc2d4f64a5a2b40083
+SHA512: 897f01e41615e7dd31781f4ad8f946606f689f9aeedd59224941fe0739215c0ea5303df6dfa1a4f0bd3bffb73d808930784aab2d920aa29efa16df5a83ab6f18
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64e
+Version: 2.1-4
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 500
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.1-4_iphoneos-arm64e_4e74018a878a25d3f4a35cf61cb42ea40b0eee979318a9295f8bf7e36ccd1bcc.deb
+Size: 73134
+MD5sum: 3e333ff590d4120e3c3729710c59a8a3
+SHA1: 01bb8a401dc771c3139d6bc38eef42afaa7cb1e8
+SHA256: 4e74018a878a25d3f4a35cf61cb42ea40b0eee979318a9295f8bf7e36ccd1bcc
+SHA512: 89bfb20ddb80527163f6c51de5b09babafb073b57e3f2b661681c52fa1504e2dd5f73bab59ccb0d214f3e416959e931e5906e7d9443245fd32428e6dc65b8484
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64e
+Version: 2.1-5
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 516
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.1-5_iphoneos-arm64e_daec1fea8215f2dfc7454aefccadae88eec5b28ffe6a10d8bff48dd34173258c.deb
+Size: 79370
+MD5sum: 5c0a8b805d6ec503e57791bc85493882
+SHA1: e0da7d24973d9f476155c784411503cf01b6ccfa
+SHA256: daec1fea8215f2dfc7454aefccadae88eec5b28ffe6a10d8bff48dd34173258c
+SHA512: 0a481959c38b1aaa693942f042ad2872ff0ecbf5a9e01cdfc1a2f47bb4e7e0376c425e8b1f5a79b685a380851341d694b83a445ba12fa1280f6c75b8e5e085ad
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64e
+Version: 2.1-6
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 584
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.1-6_iphoneos-arm64e_bbc2bbce0a0998a22282aeaaabb0356ef2ab44f6246ad92278a46c8047a7d13a.deb
+Size: 91090
+MD5sum: a04c669f739e938b2bf4914acac5c380
+SHA1: cf47ef276716529b4a43905a5fb45315fc3f2f30
+SHA256: bbc2bbce0a0998a22282aeaaabb0356ef2ab44f6246ad92278a46c8047a7d13a
+SHA512: 7e50d69f6daf2b79c72601edbb74b5d73d30d5883755a0272e4e064b1e20b9ddcfe8f44a257bba5e3597f786d5ee75210d5cef37603e98b0327d88160470d1e9
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: DYYY
+Author: huami
+
+Package: com.huami.dyyy
+Architecture: iphoneos-arm64e
+Version: 2.1-7
+Priority: optional
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 648
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -1611,34 +1702,17 @@ Size: 107752
 MD5sum: 031cf9beee6e48b1512f72f6f9b9b6bb
 SHA1: 4cf2f9f02dc0ca6191e06414b78be662d10145db
 SHA256: 715e438d1587fe706d2fb5606bfc54daa6cfcd7236104a52090c2aa60932c477
-Section: Tweaks
-Priority: optional
+SHA512: 2bed05fe70e43f51c58a30b5dea423640acffb198d505aaac746cd866b1b4231f8a3fdfea5dbc7961d7602d48d2c6d0c96ef09ed5dbbcdf433c46345144f22e4
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
 Name: DYYY
-
-Package: com.huami.wcenhance
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 168
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.wcenhance_1.0_iphoneos-arm64_c90554ab4ced4d15d8ca211e7ea27de5469b9de0b9bbd7e8a89deea093e2bcd6.deb
-Size: 4564
-MD5sum: 12e606b9ae04342db2b3c2794ca3cc9b
-SHA1: 4fe5311cbbaf53863cad3139a5498adb912e85e0
-SHA256: c90554ab4ced4d15d8ca211e7ea27de5469b9de0b9bbd7e8a89deea093e2bcd6
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314
-Description: 仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
-Name: WCEnhance
 
 Package: com.huami.wcenhance
-Version: 1.0
 Architecture: iphoneos-arm
+Version: 1.0
+Priority: optional
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 168
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -1647,52 +1721,17 @@ Size: 4502
 MD5sum: 6aea86c3617926e2aae65cdb68b146a8
 SHA1: e52986dad59f5e115eef353b4e8ccc4de14c51d6
 SHA256: 8428c639004bfd280b774e2b5efe779be8d69a84dcd084bd41989174849e8499
-Section: Tweaks
-Priority: optional
+SHA512: 2b385a4bd231adba8b5dd620f5a8122eb9f66533dd264a1c872c85d7b420d3ea8293165a9a08367831b46572a32e376b9d00f323404bfed21d1562b83abd37c7
 Homepage: https://github.com/huami1314
 Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
 Name: WCEnhance
+Author: huami
 
 Package: com.huami.wcenhance
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 168
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.wcenhance_1.0_iphoneos-arm64e_0b5e0fc39875587bb701acb084f7dc54821ebf157d7c265936605b1be60bcbcb.deb
-Size: 4504
-MD5sum: 50b77b178cf1ae3116bb0f2c833ec73f
-SHA1: 8c0ec04cbb68135749f1c6c9eacb4f440335900d
-SHA256: 0b5e0fc39875587bb701acb084f7dc54821ebf157d7c265936605b1be60bcbcb
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: WCEnhance
-
-Package: com.huami.wcenhance
-Version: 1.0-3
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 168
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.wcenhance_1.0-3_iphoneos-arm64_f97f6a1d3a1c7226e3365162a26fc6bf583b9597dbdd62c5f2ce5bdee002c37e.deb
-Size: 5274
-MD5sum: 86255293b8e102ecd14751612ffa7629
-SHA1: aab39099f7698724a13794fea657b9f47388c497
-SHA256: f97f6a1d3a1c7226e3365162a26fc6bf583b9597dbdd62c5f2ce5bdee002c37e
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: WCEnhance
-
-Package: com.huami.wcenhance
-Version: 1.0-3
 Architecture: iphoneos-arm
+Version: 1.0-3
+Priority: optional
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 168
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -1701,16 +1740,74 @@ Size: 5200
 MD5sum: c1f7ee66e827c83d6dbfd491b9e3c8e4
 SHA1: 10b57ff3d59e23ba8bf9bd7d24d1dee464af2e86
 SHA256: a6265eac687df5e570966558e9c4f8995e4f6d96c68bc86d6e38db2bbd00081a
-Section: Tweaks
-Priority: optional
+SHA512: 02bddc2d49c2449f2ee2d5c484032c5306369a8a9698eca58ddd7574f4654533c1366ed2ca9cb8e6011f39b44191ad5088235530311d8d0dcb2f5150fc00546c
 Homepage: https://github.com/huami1314
 Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
 Name: WCEnhance
+Author: huami
 
 Package: com.huami.wcenhance
+Architecture: iphoneos-arm64
+Version: 1.0
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 168
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.wcenhance_1.0_iphoneos-arm64_c90554ab4ced4d15d8ca211e7ea27de5469b9de0b9bbd7e8a89deea093e2bcd6.deb
+Size: 4564
+MD5sum: 12e606b9ae04342db2b3c2794ca3cc9b
+SHA1: 4fe5311cbbaf53863cad3139a5498adb912e85e0
+SHA256: c90554ab4ced4d15d8ca211e7ea27de5469b9de0b9bbd7e8a89deea093e2bcd6
+SHA512: ca49fd3dcf474473b4d1f515a20c743e5633352f5624593fcf35ac2ee7dd91b70e2dc68d785d2bde79ebeadbd73e755547691da087407d5ed9a69688ab228686
+Homepage: https://github.com/huami1314
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: WCEnhance
+Author: huami
+
+Package: com.huami.wcenhance
+Architecture: iphoneos-arm64
 Version: 1.0-3
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 168
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.wcenhance_1.0-3_iphoneos-arm64_f97f6a1d3a1c7226e3365162a26fc6bf583b9597dbdd62c5f2ce5bdee002c37e.deb
+Size: 5274
+MD5sum: 86255293b8e102ecd14751612ffa7629
+SHA1: aab39099f7698724a13794fea657b9f47388c497
+SHA256: f97f6a1d3a1c7226e3365162a26fc6bf583b9597dbdd62c5f2ce5bdee002c37e
+SHA512: 279e02062b2fc1a133b454b2c04676ec17a624601617acfd6cffa94021cb70f2bdf279ca24ca82d520919f368f8ca14ef02084f714095818234e6e4d4a21a976
+Homepage: https://github.com/huami1314
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: WCEnhance
+Author: huami
+
+Package: com.huami.wcenhance
 Architecture: iphoneos-arm64e
+Version: 1.0
+Priority: optional
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 168
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.wcenhance_1.0_iphoneos-arm64e_0b5e0fc39875587bb701acb084f7dc54821ebf157d7c265936605b1be60bcbcb.deb
+Size: 4504
+MD5sum: 50b77b178cf1ae3116bb0f2c833ec73f
+SHA1: 8c0ec04cbb68135749f1c6c9eacb4f440335900d
+SHA256: 0b5e0fc39875587bb701acb084f7dc54821ebf157d7c265936605b1be60bcbcb
+SHA512: afdc9a783edb2d0c9b588f37ffa62a985f754a682d99bf836d9a5a67ba69c5e368051e8470e8c6e4a0ddc054c792bbfba422f96f5cdb4a6cc844ac08b9810a5a
+Homepage: https://github.com/huami1314
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Name: WCEnhance
+Author: huami
+
+Package: com.huami.wcenhance
+Architecture: iphoneos-arm64e
+Version: 1.0-3
+Priority: optional
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 168
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -1719,32 +1816,16 @@ Size: 5216
 MD5sum: 1026a927605d78304ea90c8526c589e7
 SHA1: 8f0580413708b459a97b93752068fb9c12f7ac40
 SHA256: 951a60d42014c837ab32f861a0df8067c053d1960a528f8c6eb5a47f1aea9c9b
-Section: Tweaks
-Priority: optional
+SHA512: 024f11616018a4fefc12a8be533d68c236ef9627de3d2daac5d154b4cdad227cb81edb768855ca88ba5bba4b8892ecf7ebf35477b93efe20428037189193695d
 Homepage: https://github.com/huami1314
 Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
 Name: WCEnhance
-
-Package: com.huami.wcnicknameavatarstyle
-Version: 1.0-2
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 256
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64/com.huami.wcnicknameavatarstyle_1.0-2_iphoneos-arm64_1d888317ffa1732c3698aad8c0a1a1fe7fbe263dd8e932d1f800a622e41888d4.deb
-Size: 32780
-MD5sum: a391d808545d6b867dc031d69f205d86
-SHA1: 7a11dfa92d772bcf934357d18bb8e8801d84f7f3
-SHA256: 1d888317ffa1732c3698aad8c0a1a1fe7fbe263dd8e932d1f800a622e41888d4
-Section: Tweaks
-Description: 为微信聊天界面标题添加头像
 Author: huami
-Name: WCNicknameAvatarStyle
 
 Package: com.huami.wcnicknameavatarstyle
-Version: 1.0-2
 Architecture: iphoneos-arm
+Version: 1.0-2
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 256
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -1753,46 +1834,15 @@ Size: 32706
 MD5sum: 57cb8abfebd78643b93f21928210f570
 SHA1: 39ab5decc6331cce8951fec0f5692b9f9f953a1b
 SHA256: d98a9c482854fef353403e15e16972f5807eab8a9791410c04fac79b4c8906d7
-Section: Tweaks
+SHA512: ec601a9b2c0ddec61119c28863436c4f17180e043d13d1af6cab4b4c6d5bb76afc9695dba79a5e548a5349fd0983c27006bcf92b2b449487103f7c9bb82cdfdb
 Description: 为微信聊天界面标题添加头像
-Author: huami
 Name: WCNicknameAvatarStyle
+Author: huami
 
 Package: com.huami.wcnicknameavatarstyle
-Version: 1.0-2
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 256
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64e/com.huami.wcnicknameavatarstyle_1.0-2_iphoneos-arm64e_0d34b4236982c040db9c66c87ed4f01c03cf29f68d194d4c32cbbcdeb7387705.deb
-Size: 32462
-MD5sum: 45cc9194a084c3e92fc0e6ed8b78dfce
-SHA1: 16d940734129fd86f65fd1d08f09b622ed1e4fae
-SHA256: 0d34b4236982c040db9c66c87ed4f01c03cf29f68d194d4c32cbbcdeb7387705
-Section: Tweaks
-Description: 为微信聊天界面标题添加头像
-Author: huami
-Name: WCNicknameAvatarStyle
-
-Package: com.huami.wcnicknameavatarstyle
-Version: 1.0-3
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 272
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64/com.huami.wcnicknameavatarstyle_1.0-3_iphoneos-arm64_41f681217436f87cd2aac64da3ed3d4e6eabbd96ca70fc5b01b458db49901b70.deb
-Size: 32964
-MD5sum: 5ed81aa1645d0fefd403a6a539bd1c52
-SHA1: 50a50a11328909101220d8992a7d18c52f9aeef8
-SHA256: 41f681217436f87cd2aac64da3ed3d4e6eabbd96ca70fc5b01b458db49901b70
-Section: Tweaks
-Description: 为微信聊天界面标题添加头像
-Author: huami
-Name: WCNicknameAvatarStyle
-
-Package: com.huami.wcnicknameavatarstyle
-Version: 1.0-3
 Architecture: iphoneos-arm
+Version: 1.0-3
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 272
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -1801,46 +1851,15 @@ Size: 32876
 MD5sum: 287b20bd806cb02b43e238ac726013ba
 SHA1: cba53c3af4caaa65ed4f1b866126c99e5779a305
 SHA256: e10f54d2aa6b7c23cd9f455fe022166aa7b76e729faf9ca7df718b2f42848c10
-Section: Tweaks
+SHA512: 6fdab1ffe98ff7d16a09da28a6037a2bc030e22920bf79ff2d8e2ef928a0787623f138b6d8106ab352fc4b4386f4753522aec58b5335421d9bfbaaa7062fdb18
 Description: 为微信聊天界面标题添加头像
-Author: huami
 Name: WCNicknameAvatarStyle
+Author: huami
 
 Package: com.huami.wcnicknameavatarstyle
-Version: 1.0-3
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 272
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64e/com.huami.wcnicknameavatarstyle_1.0-3_iphoneos-arm64e_685a3b4be3874a3320453e337f4fd6e04f0a5956c8abfb47c39f0b3539d0f99c.deb
-Size: 32888
-MD5sum: 4bd0d29f78688073ed2435ef04549d48
-SHA1: 5ae943b83ced8704ccee65611c240592970f4438
-SHA256: 685a3b4be3874a3320453e337f4fd6e04f0a5956c8abfb47c39f0b3539d0f99c
-Section: Tweaks
-Description: 为微信聊天界面标题添加头像
-Author: huami
-Name: WCNicknameAvatarStyle
-
-Package: com.huami.wcnicknameavatarstyle
-Version: 1.0-4
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 272
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64/com.huami.wcnicknameavatarstyle_1.0-4_iphoneos-arm64_6c16e27d89d824c1e8d841773411238c85f04fddd764efed1e233fbec7d2b558.deb
-Size: 32874
-MD5sum: 8524e5ac78a628b17e5c607326f2d463
-SHA1: 3ec2d332182e9295c7c0bc35ca6fa2405f77d91b
-SHA256: 6c16e27d89d824c1e8d841773411238c85f04fddd764efed1e233fbec7d2b558
-Section: Tweaks
-Description: 为微信聊天界面标题添加头像
-Author: huami
-Name: WCNicknameAvatarStyle
-
-Package: com.huami.wcnicknameavatarstyle
-Version: 1.0-4
 Architecture: iphoneos-arm
+Version: 1.0-4
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 272
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -1849,62 +1868,15 @@ Size: 32784
 MD5sum: 828d3fa3fad31b2cc856404ec9c46115
 SHA1: 13b3335ae3a80ae41e542fba14a62caf5bf2d87b
 SHA256: 934b91a501748422d5cfad322ade082dab9d308aec87ed66728fba7b8f444b75
-Section: Tweaks
+SHA512: 46129705225c0af0af0cc5597b1d36cd5be21fc78c6e55af68ecd781048a026efc00d80381f8ae2dd53e3c2fec2b93b1d917da3d3d8022ea716b9c445ddf9eec
 Description: 为微信聊天界面标题添加头像
-Author: huami
 Name: WCNicknameAvatarStyle
+Author: huami
 
 Package: com.huami.wcnicknameavatarstyle
-Version: 1.0-4
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 272
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64e/com.huami.wcnicknameavatarstyle_1.0-4_iphoneos-arm64e_fbf8b4487aec0469647b48f9cad10eee7d97145dabfdd6c298bc11bd31a41873.deb
-Size: 32800
-MD5sum: e684ad84e2c66460afb2ec2ad2d845f0
-SHA1: 61495419352de9f6069d17d3abbedae116d8276e
-SHA256: fbf8b4487aec0469647b48f9cad10eee7d97145dabfdd6c298bc11bd31a41873
-Section: Tweaks
-Description: 为微信聊天界面标题添加头像
-Author: huami
-Name: WCNicknameAvatarStyle
-
-Package: com.huami.wcnicknameavatarstyle
-Version: 1.0-5
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 272
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64/com.huami.wcnicknameavatarstyle_1.0-5_iphoneos-arm64_867b64c62e77b5d988c5b014e5154514570e188668b9fdc3354fe2d999ef19d6.deb
-Size: 38476
-MD5sum: f324bc547f7cc54be47218278514d4a3
-SHA1: aa6b1ad31b7f7d4b578a0d1d41960e383a806c63
-SHA256: 867b64c62e77b5d988c5b014e5154514570e188668b9fdc3354fe2d999ef19d6
-Section: Tweaks
-Description: 为微信聊天界面标题添加头像
-Author: huami
-Name: WCNicknameAvatarStyle
-
-Package: com.huami.wcnicknameavatarstyle
-Version: 1.0-5
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 272
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64/com.huami.wcnicknameavatarstyle_1.0-5_iphoneos-arm64_fa04fd3c4635169609dde062d9a89df4ff1a8a5d0770286b3c719a153e8c71c8.deb
-Size: 38448
-MD5sum: af3642adfc505db8b201b8f84c55aa2e
-SHA1: 867c8a49b2b3f6cdc5ea1d2f3e082abd2c9623bb
-SHA256: fa04fd3c4635169609dde062d9a89df4ff1a8a5d0770286b3c719a153e8c71c8
-Section: Tweaks
-Description: 为微信聊天界面标题添加头像
-Author: huami
-Name: WCNicknameAvatarStyle
-
-Package: com.huami.wcnicknameavatarstyle
-Version: 1.0-5
 Architecture: iphoneos-arm
+Version: 1.0-5
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 272
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -1913,14 +1885,15 @@ Size: 38362
 MD5sum: 130152b051350c73e34016edab00a8fb
 SHA1: 278673a26d0118db728726117d3f5ee4794d8fd5
 SHA256: 54e9ec66c7c54a09b7d11c5d44d521e68aa6785d33833be52a5cf5a586668119
-Section: Tweaks
+SHA512: b8fadf17c0e2a6d0a86fe8774e6f6262b5b87443b10dfad8d190a2ab69236a57b7e8ffb56148527dc34645349b991dbeae466ef9abbb92ec8d41cac77688345c
 Description: 为微信聊天界面标题添加头像
-Author: huami
 Name: WCNicknameAvatarStyle
+Author: huami
 
 Package: com.huami.wcnicknameavatarstyle
-Version: 1.0-5
 Architecture: iphoneos-arm
+Version: 1.0-5
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 272
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -1929,62 +1902,15 @@ Size: 38396
 MD5sum: f376fedc24138a129b365a0a8d9dadd8
 SHA1: a34a2e27565e8f8d20abe32645520c11d6302632
 SHA256: de412e5c4d4bf4b2ccdbd6cd4ee8f965813314709a4e8a959fb0265b12f6d85e
-Section: Tweaks
+SHA512: 05e9dbf23511fb8f007685a1daf4c15b75b4426b1334aeca131c9f42717aad0e935bc080ae69ee4d0247b64ee9162a0b5df3f34075516a823bdbe1bdad162618
 Description: 为微信聊天界面标题添加头像
-Author: huami
 Name: WCNicknameAvatarStyle
+Author: huami
 
 Package: com.huami.wcnicknameavatarstyle
-Version: 1.0-5
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 272
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64e/com.huami.wcnicknameavatarstyle_1.0-5_iphoneos-arm64e_38b17179ecb139464dff1b4d28ff47e24142e2ab82389726290162df952d3c09.deb
-Size: 38374
-MD5sum: bcd0c0d9b43fdfc9d53bd4a20ebc81d9
-SHA1: 18be22791efa36c1ea6899c475c63c27ddb1c862
-SHA256: 38b17179ecb139464dff1b4d28ff47e24142e2ab82389726290162df952d3c09
-Section: Tweaks
-Description: 为微信聊天界面标题添加头像
-Author: huami
-Name: WCNicknameAvatarStyle
-
-Package: com.huami.wcnicknameavatarstyle
-Version: 1.0-5
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 272
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64e/com.huami.wcnicknameavatarstyle_1.0-5_iphoneos-arm64e_130d1db46a4dd670633d833e969335ae029cc84f2cd19767811d130600c32940.deb
-Size: 38414
-MD5sum: d398cbe8362fa7b66573ad85f1d9b597
-SHA1: 4d6e83e868ef31bdb274534f6db0743139b4a01b
-SHA256: 130d1db46a4dd670633d833e969335ae029cc84f2cd19767811d130600c32940
-Section: Tweaks
-Description: 为微信聊天界面标题添加头像
-Author: huami
-Name: WCNicknameAvatarStyle
-
-Package: com.huami.wcnicknameavatarstyle
-Version: 1.0-8
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 304
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64/com.huami.wcnicknameavatarstyle_1.0-8_iphoneos-arm64_395f28b9f40d74d558fd18a3dd1929ab7dcd32c1f596ae8254c49f123fa60703.deb
-Size: 47176
-MD5sum: 20a889ad6abdc51ef93e3c91c2d5d167
-SHA1: 481c61f43e7be27a506c5c29b7ec8ac1ae3ef196
-SHA256: 395f28b9f40d74d558fd18a3dd1929ab7dcd32c1f596ae8254c49f123fa60703
-Section: Tweaks
-Description: 为微信聊天界面标题添加头像
-Author: huami
-Name: WCNicknameAvatarStyle
-
-Package: com.huami.wcnicknameavatarstyle
-Version: 1.0-8
 Architecture: iphoneos-arm
+Version: 1.0-8
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 304
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -1993,46 +1919,15 @@ Size: 47086
 MD5sum: 32a9ed8aa2707e9f188de0724a590a36
 SHA1: 5616fbea64a30f79bd57d34c98a70f5dee62859f
 SHA256: efdcd3bbacfbdc66a3b57e4043a7d8364beb7a496df9b2899242b34ca3e7b54e
-Section: Tweaks
+SHA512: 142ad1fa91991a0415e98dbd74c7d573ca9eb5b3138e5c47b0d54129cccbb1009993faed79d14c5e9c9508dc11e4973d8e48ab62a16dc33e8358153dd00ec6c0
 Description: 为微信聊天界面标题添加头像
-Author: huami
 Name: WCNicknameAvatarStyle
+Author: huami
 
 Package: com.huami.wcnicknameavatarstyle
-Version: 1.0-8
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 304
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64e/com.huami.wcnicknameavatarstyle_1.0-8_iphoneos-arm64e_3550d8c16c6c3ded49f47e80f30cd1b624a11b20867197d9a17ad05a3d1cd01a.deb
-Size: 47098
-MD5sum: 7d3dc45ac302204740dee8aeb4713cee
-SHA1: a1e1c2f3579781b87e2f9eef5b11a906439ba5f5
-SHA256: 3550d8c16c6c3ded49f47e80f30cd1b624a11b20867197d9a17ad05a3d1cd01a
-Section: Tweaks
-Description: 为微信聊天界面标题添加头像
-Author: huami
-Name: WCNicknameAvatarStyle
-
-Package: com.huami.wcnicknameavatarstyle
-Version: 1.0-9
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 304
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64/com.huami.wcnicknameavatarstyle_1.0-9_iphoneos-arm64_eeae818660c68f72d3bb5c990a10e3a20335c285cb6fcd33ac71ac635ee6e190.deb
-Size: 46606
-MD5sum: a2f680c24859121f14ee5e3f78a664b1
-SHA1: 79b9e3d711505ba974b3e3450c982155226cf487
-SHA256: eeae818660c68f72d3bb5c990a10e3a20335c285cb6fcd33ac71ac635ee6e190
-Section: Tweaks
-Description: 为微信聊天界面标题添加头像
-Author: huami
-Name: WCNicknameAvatarStyle
-
-Package: com.huami.wcnicknameavatarstyle
-Version: 1.0-9
 Architecture: iphoneos-arm
+Version: 1.0-9
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 304
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -2041,46 +1936,15 @@ Size: 46514
 MD5sum: 22ba41ea395531f011d5863cf29c9ed1
 SHA1: f858186a97b66cc12dc39f5ae6cf0d70c70f6ecb
 SHA256: 5a4992431255fa4f118ce840bd962fb8f07afa5f78add83e99a2a4309ada7401
-Section: Tweaks
+SHA512: aea3258936bac456c39fffa9a69561ec49caf23c88c6c18351349aa951bca5a01004faf7e6c366080016e83a0ed6b7a6b96a81a64ffaaab83b20cc915f4e1ce3
 Description: 为微信聊天界面标题添加头像
-Author: huami
 Name: WCNicknameAvatarStyle
+Author: huami
 
 Package: com.huami.wcnicknameavatarstyle
-Version: 1.0-9
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 304
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64e/com.huami.wcnicknameavatarstyle_1.0-9_iphoneos-arm64e_09759a6c50e5a04c508a0cbcd3c57eec1eb34d4d6c9652f0a94a929667f45f24.deb
-Size: 46516
-MD5sum: c9e92428ed22ae442726ab24feb1cf71
-SHA1: 727cc849cb39407f2d39e94920722b7a7126277a
-SHA256: 09759a6c50e5a04c508a0cbcd3c57eec1eb34d4d6c9652f0a94a929667f45f24
-Section: Tweaks
-Description: 为微信聊天界面标题添加头像
-Author: huami
-Name: WCNicknameAvatarStyle
-
-Package: com.huami.wcnicknameavatarstyle
-Version: 2.0-1
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 304
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64/com.huami.wcnicknameavatarstyle_2.0-1_iphoneos-arm64_00ec78b8096e1fd9214aa2fabed111236214defce027fdf92b86085c65cfeff3.deb
-Size: 46612
-MD5sum: 02f76a4c73f5bb7f5bdaa0e8ae4d2690
-SHA1: 3c81a93a2d6cf33f9cadfd58a7dc5f540eab0129
-SHA256: 00ec78b8096e1fd9214aa2fabed111236214defce027fdf92b86085c65cfeff3
-Section: Tweaks
-Description: 为微信聊天界面标题添加头像
-Author: huami
-Name: WCNicknameAvatarStyle
-
-Package: com.huami.wcnicknameavatarstyle
-Version: 2.0-1
 Architecture: iphoneos-arm
+Version: 2.0-1
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 304
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -2089,14 +1953,270 @@ Size: 46518
 MD5sum: 5cb561ce0303b94c900f22ddb71e8dac
 SHA1: 1dea3458ea09fd4817bbcd51b4feb7706b566fe6
 SHA256: 068a110ce4c1603492101c215b5fd544dff982db6170b58ed44e2b55013d8a07
-Section: Tweaks
+SHA512: 5e93e73d29ecc48bc5053355b26e27ef4f05ef6c53c1fb929fe0a8c5d15da9c692838fa0ca3a02f69c635f33fecf2dd7acd6d241c757061a8eb08b83fcd1983f
 Description: 为微信聊天界面标题添加头像
-Author: huami
 Name: WCNicknameAvatarStyle
+Author: huami
 
 Package: com.huami.wcnicknameavatarstyle
+Architecture: iphoneos-arm64
+Version: 1.0-2
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 256
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.huami.wcnicknameavatarstyle_1.0-2_iphoneos-arm64_1d888317ffa1732c3698aad8c0a1a1fe7fbe263dd8e932d1f800a622e41888d4.deb
+Size: 32780
+MD5sum: a391d808545d6b867dc031d69f205d86
+SHA1: 7a11dfa92d772bcf934357d18bb8e8801d84f7f3
+SHA256: 1d888317ffa1732c3698aad8c0a1a1fe7fbe263dd8e932d1f800a622e41888d4
+SHA512: c24791f69d9580c9155ab69ebdcce1bc7e2937fd7821301b48388b51f16baa649c7a3752d021eb9227ba8d8238970d17ade9a49f8aa992f46063089a95a1be2f
+Description: 为微信聊天界面标题添加头像
+Name: WCNicknameAvatarStyle
+Author: huami
+
+Package: com.huami.wcnicknameavatarstyle
+Architecture: iphoneos-arm64
+Version: 1.0-3
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.huami.wcnicknameavatarstyle_1.0-3_iphoneos-arm64_41f681217436f87cd2aac64da3ed3d4e6eabbd96ca70fc5b01b458db49901b70.deb
+Size: 32964
+MD5sum: 5ed81aa1645d0fefd403a6a539bd1c52
+SHA1: 50a50a11328909101220d8992a7d18c52f9aeef8
+SHA256: 41f681217436f87cd2aac64da3ed3d4e6eabbd96ca70fc5b01b458db49901b70
+SHA512: bb938b11c9aceadee18afad00d623a33460b80628fdd7b153072f2bebe15a7f2e63d37b7296d738c4944dbbaf47275bb3898a0ff1f82a5f3a5337632926c693f
+Description: 为微信聊天界面标题添加头像
+Name: WCNicknameAvatarStyle
+Author: huami
+
+Package: com.huami.wcnicknameavatarstyle
+Architecture: iphoneos-arm64
+Version: 1.0-4
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.huami.wcnicknameavatarstyle_1.0-4_iphoneos-arm64_6c16e27d89d824c1e8d841773411238c85f04fddd764efed1e233fbec7d2b558.deb
+Size: 32874
+MD5sum: 8524e5ac78a628b17e5c607326f2d463
+SHA1: 3ec2d332182e9295c7c0bc35ca6fa2405f77d91b
+SHA256: 6c16e27d89d824c1e8d841773411238c85f04fddd764efed1e233fbec7d2b558
+SHA512: 7312623aec318a25099e19357f159419dabfae1c262cfe91d2dc4367ebe6b0f844e40d8170a62e89d27988f30de53df9ce9347a0a1a9e8995705599da52b0075
+Description: 为微信聊天界面标题添加头像
+Name: WCNicknameAvatarStyle
+Author: huami
+
+Package: com.huami.wcnicknameavatarstyle
+Architecture: iphoneos-arm64
+Version: 1.0-5
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.huami.wcnicknameavatarstyle_1.0-5_iphoneos-arm64_867b64c62e77b5d988c5b014e5154514570e188668b9fdc3354fe2d999ef19d6.deb
+Size: 38476
+MD5sum: f324bc547f7cc54be47218278514d4a3
+SHA1: aa6b1ad31b7f7d4b578a0d1d41960e383a806c63
+SHA256: 867b64c62e77b5d988c5b014e5154514570e188668b9fdc3354fe2d999ef19d6
+SHA512: b275434dcb9bb2d267b1bc33ef705fcf7dff486650da31f75c9820ea8aecfdcf6663fadfe68d76bfe6126f2e59bc4da517e8f510396f743723352cd82482436e
+Description: 为微信聊天界面标题添加头像
+Name: WCNicknameAvatarStyle
+Author: huami
+
+Package: com.huami.wcnicknameavatarstyle
+Architecture: iphoneos-arm64
+Version: 1.0-5
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.huami.wcnicknameavatarstyle_1.0-5_iphoneos-arm64_fa04fd3c4635169609dde062d9a89df4ff1a8a5d0770286b3c719a153e8c71c8.deb
+Size: 38448
+MD5sum: af3642adfc505db8b201b8f84c55aa2e
+SHA1: 867c8a49b2b3f6cdc5ea1d2f3e082abd2c9623bb
+SHA256: fa04fd3c4635169609dde062d9a89df4ff1a8a5d0770286b3c719a153e8c71c8
+SHA512: 4deac9d4e2bc128bc8f54f4a2f3c89272f140bdbead9e4e7ec09060342de431686c7b468fa414daab0975c775e70e3be0fe4772418944bd0c71365b2d9fd9e1c
+Description: 为微信聊天界面标题添加头像
+Name: WCNicknameAvatarStyle
+Author: huami
+
+Package: com.huami.wcnicknameavatarstyle
+Architecture: iphoneos-arm64
+Version: 1.0-8
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 304
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.huami.wcnicknameavatarstyle_1.0-8_iphoneos-arm64_395f28b9f40d74d558fd18a3dd1929ab7dcd32c1f596ae8254c49f123fa60703.deb
+Size: 47176
+MD5sum: 20a889ad6abdc51ef93e3c91c2d5d167
+SHA1: 481c61f43e7be27a506c5c29b7ec8ac1ae3ef196
+SHA256: 395f28b9f40d74d558fd18a3dd1929ab7dcd32c1f596ae8254c49f123fa60703
+SHA512: 0b5fe7e499c9ccc009e251ffee0acabaacf7e8633e252bb0366d89ee040bdc46b2333945242c8e376db5f13367aaffa6057b85eab199075cf4f5925863bcbcfd
+Description: 为微信聊天界面标题添加头像
+Name: WCNicknameAvatarStyle
+Author: huami
+
+Package: com.huami.wcnicknameavatarstyle
+Architecture: iphoneos-arm64
+Version: 1.0-9
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 304
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.huami.wcnicknameavatarstyle_1.0-9_iphoneos-arm64_eeae818660c68f72d3bb5c990a10e3a20335c285cb6fcd33ac71ac635ee6e190.deb
+Size: 46606
+MD5sum: a2f680c24859121f14ee5e3f78a664b1
+SHA1: 79b9e3d711505ba974b3e3450c982155226cf487
+SHA256: eeae818660c68f72d3bb5c990a10e3a20335c285cb6fcd33ac71ac635ee6e190
+SHA512: 7af0a95933608ce65cb471f0261e980057656a62597d31c1e6fca68fea56d12922ab8a32f36965c361f5c23e5457ae90eaf41c2b3209d0659574fc5f3c5c66bc
+Description: 为微信聊天界面标题添加头像
+Name: WCNicknameAvatarStyle
+Author: huami
+
+Package: com.huami.wcnicknameavatarstyle
+Architecture: iphoneos-arm64
 Version: 2.0-1
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 304
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.huami.wcnicknameavatarstyle_2.0-1_iphoneos-arm64_00ec78b8096e1fd9214aa2fabed111236214defce027fdf92b86085c65cfeff3.deb
+Size: 46612
+MD5sum: 02f76a4c73f5bb7f5bdaa0e8ae4d2690
+SHA1: 3c81a93a2d6cf33f9cadfd58a7dc5f540eab0129
+SHA256: 00ec78b8096e1fd9214aa2fabed111236214defce027fdf92b86085c65cfeff3
+SHA512: c2a6f59f4f0f762635dedc674d2e44d7e25a81a6b14fe29d0a590cc0b533aac820da410db1f99d1ece0d5d83cbe199c61dccf1bb1ab1b21ee1448f37e5665610
+Description: 为微信聊天界面标题添加头像
+Name: WCNicknameAvatarStyle
+Author: huami
+
+Package: com.huami.wcnicknameavatarstyle
 Architecture: iphoneos-arm64e
+Version: 1.0-2
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 256
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.huami.wcnicknameavatarstyle_1.0-2_iphoneos-arm64e_0d34b4236982c040db9c66c87ed4f01c03cf29f68d194d4c32cbbcdeb7387705.deb
+Size: 32462
+MD5sum: 45cc9194a084c3e92fc0e6ed8b78dfce
+SHA1: 16d940734129fd86f65fd1d08f09b622ed1e4fae
+SHA256: 0d34b4236982c040db9c66c87ed4f01c03cf29f68d194d4c32cbbcdeb7387705
+SHA512: 2d8b99e9b9dfd3f58b8723ba41dbf637af5bd94ae051d37a76f49f79f4f3f06687a265aaedc5cb4312b5ee1e3bf91acd75ea04205b220aeadb86db8175c6825c
+Description: 为微信聊天界面标题添加头像
+Name: WCNicknameAvatarStyle
+Author: huami
+
+Package: com.huami.wcnicknameavatarstyle
+Architecture: iphoneos-arm64e
+Version: 1.0-3
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.huami.wcnicknameavatarstyle_1.0-3_iphoneos-arm64e_685a3b4be3874a3320453e337f4fd6e04f0a5956c8abfb47c39f0b3539d0f99c.deb
+Size: 32888
+MD5sum: 4bd0d29f78688073ed2435ef04549d48
+SHA1: 5ae943b83ced8704ccee65611c240592970f4438
+SHA256: 685a3b4be3874a3320453e337f4fd6e04f0a5956c8abfb47c39f0b3539d0f99c
+SHA512: 5490ea06512c2abe87cf332949f6976c0bd7b0b52c44234f3d45b604dbe9ce36e1648789aa5e5eddecb73666b77106100fe7a698dbffd8959c04ef2a534301c9
+Description: 为微信聊天界面标题添加头像
+Name: WCNicknameAvatarStyle
+Author: huami
+
+Package: com.huami.wcnicknameavatarstyle
+Architecture: iphoneos-arm64e
+Version: 1.0-4
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.huami.wcnicknameavatarstyle_1.0-4_iphoneos-arm64e_fbf8b4487aec0469647b48f9cad10eee7d97145dabfdd6c298bc11bd31a41873.deb
+Size: 32800
+MD5sum: e684ad84e2c66460afb2ec2ad2d845f0
+SHA1: 61495419352de9f6069d17d3abbedae116d8276e
+SHA256: fbf8b4487aec0469647b48f9cad10eee7d97145dabfdd6c298bc11bd31a41873
+SHA512: db32cabf2c60239818e282fbff6ff94abaed3f4ddee95d80124c01751e55173547010daaf48290d7e16990f86cc3196c0a6e338526c671e0e1689bde9aa566c1
+Description: 为微信聊天界面标题添加头像
+Name: WCNicknameAvatarStyle
+Author: huami
+
+Package: com.huami.wcnicknameavatarstyle
+Architecture: iphoneos-arm64e
+Version: 1.0-5
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.huami.wcnicknameavatarstyle_1.0-5_iphoneos-arm64e_130d1db46a4dd670633d833e969335ae029cc84f2cd19767811d130600c32940.deb
+Size: 38414
+MD5sum: d398cbe8362fa7b66573ad85f1d9b597
+SHA1: 4d6e83e868ef31bdb274534f6db0743139b4a01b
+SHA256: 130d1db46a4dd670633d833e969335ae029cc84f2cd19767811d130600c32940
+SHA512: 6db1287ec40fbc0a1677e918fe0a826fcd7ff9354f97c879979f66a0bd5a9e84401ac1c253ced599a994d34fa2ebbe63fe70b74c22fbe83703f1e6e0bec356a5
+Description: 为微信聊天界面标题添加头像
+Name: WCNicknameAvatarStyle
+Author: huami
+
+Package: com.huami.wcnicknameavatarstyle
+Architecture: iphoneos-arm64e
+Version: 1.0-5
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.huami.wcnicknameavatarstyle_1.0-5_iphoneos-arm64e_38b17179ecb139464dff1b4d28ff47e24142e2ab82389726290162df952d3c09.deb
+Size: 38374
+MD5sum: bcd0c0d9b43fdfc9d53bd4a20ebc81d9
+SHA1: 18be22791efa36c1ea6899c475c63c27ddb1c862
+SHA256: 38b17179ecb139464dff1b4d28ff47e24142e2ab82389726290162df952d3c09
+SHA512: 6b8556b585c1e3738c204c5d88488fe76b6da7faa8dfebb0e0247466c9f2c278ee96cc8538ba89a7349c417726f4f547c0485f97a891ada62446f728bdf68b74
+Description: 为微信聊天界面标题添加头像
+Name: WCNicknameAvatarStyle
+Author: huami
+
+Package: com.huami.wcnicknameavatarstyle
+Architecture: iphoneos-arm64e
+Version: 1.0-8
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 304
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.huami.wcnicknameavatarstyle_1.0-8_iphoneos-arm64e_3550d8c16c6c3ded49f47e80f30cd1b624a11b20867197d9a17ad05a3d1cd01a.deb
+Size: 47098
+MD5sum: 7d3dc45ac302204740dee8aeb4713cee
+SHA1: a1e1c2f3579781b87e2f9eef5b11a906439ba5f5
+SHA256: 3550d8c16c6c3ded49f47e80f30cd1b624a11b20867197d9a17ad05a3d1cd01a
+SHA512: 47247c09aacb3467a84a63edff7564c7a0aa9369a3f118b831ece04271e4106180aeb00a577d753beaac761eec8ad2e31a815f5890521f6879cfe1ff7aebca58
+Description: 为微信聊天界面标题添加头像
+Name: WCNicknameAvatarStyle
+Author: huami
+
+Package: com.huami.wcnicknameavatarstyle
+Architecture: iphoneos-arm64e
+Version: 1.0-9
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 304
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.huami.wcnicknameavatarstyle_1.0-9_iphoneos-arm64e_09759a6c50e5a04c508a0cbcd3c57eec1eb34d4d6c9652f0a94a929667f45f24.deb
+Size: 46516
+MD5sum: c9e92428ed22ae442726ab24feb1cf71
+SHA1: 727cc849cb39407f2d39e94920722b7a7126277a
+SHA256: 09759a6c50e5a04c508a0cbcd3c57eec1eb34d4d6c9652f0a94a929667f45f24
+SHA512: 05ed9ffec74aa0c7f350350750655774208309abf94a4f881a7429893ed00039ded1f3fe7c65c78354fa5e787491770cfcff86581f6a96777f5fd54a43b4560e
+Description: 为微信聊天界面标题添加头像
+Name: WCNicknameAvatarStyle
+Author: huami
+
+Package: com.huami.wcnicknameavatarstyle
+Architecture: iphoneos-arm64e
+Version: 2.0-1
+Section: Tweaks
 Maintainer: huami
 Installed-Size: 304
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -2105,8 +2225,8 @@ Size: 46528
 MD5sum: b8d001b45f0486a7de0380fb473e81df
 SHA1: d02bab1136ff5b6f0a25d86bade698369e32cf41
 SHA256: 6a681a324a21c86315929960f1dc45922a9878b88b669955878bbc85652c6804
-Section: Tweaks
+SHA512: e0319ea4a2642c4ab102fa7d0bc1799562252c68edf9244a2d786e34525bc0d7f1d36a21132892d777ce6bf8b7d31da8d7e47962c721dc7fdc28572b2acd2679
 Description: 为微信聊天界面标题添加头像
-Author: huami
 Name: WCNicknameAvatarStyle
+Author: huami
 
